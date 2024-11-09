@@ -1,0 +1,1001 @@
+Patient ID,Symptoms,Specialist Type,Rating,Age,Gender,Pre-existing Conditions,Doctor Name,Doctor ID
+325,"vomiting, nausea, swelling, stiffness",Cardiologist,5,43,Female,Asthma,Dr. Angela Hernandez,1000
+405,"fever, chest pain, swelling",Cardiologist,1,67,Female,Asthma,Dr. Angela Hernandez,1000
+1006,loss of smell,Cardiologist,3,66,Male,Asthma,Dr. Angela Hernandez,1000
+617,"vomiting, sore throat, dizziness",Dermatologist,5,63,Male,Diabetes,Dr. Angela Hernandez,1001
+629,"cough, loss of smell, dizziness",Dermatologist,1,79,Male,Obesity,Dr. Angela Hernandez,1001
+944,"blurred vision, abdominal pain, swelling, fever",Dermatologist,5,23,Female,Diabetes,Dr. Angela Hernandez,1001
+32,"rash, loss of smell, dizziness",ENT Specialist,2,79,Male,Hypertension,Dr. Angela Hernandez,1002
+441,"vomiting, shortness of breath",ENT Specialist,3,44,Female,Obesity,Dr. Angela Hernandez,1002
+691,"chest pain, sore throat, swelling",ENT Specialist,2,60,Female,None,Dr. Angela Hernandez,1002
+722,"stiffness, redness, chest pain",ENT Specialist,5,20,Male,Diabetes,Dr. Angela Hernandez,1002
+870,stiffness,ENT Specialist,5,19,Female,Asthma,Dr. Angela Hernandez,1002
+922,"sore throat, joint pain, swelling",ENT Specialist,5,39,Male,Asthma,Dr. Angela Hernandez,1002
+256,loss of taste,Gastroenterologist,2,70,Male,None,Dr. Angela Hernandez,1003
+381,"chest pain, redness",Gastroenterologist,2,30,Female,Eczema,Dr. Angela Hernandez,1003
+416,"nausea, redness",Gastroenterologist,3,36,Male,Hypertension,Dr. Angela Hernandez,1003
+923,"fatigue, loss of smell",Gastroenterologist,3,41,Male,Allergies,Dr. Angela Hernandez,1003
+129,"shortness of breath, fatigue, hearing loss",General Physician,5,21,Male,Chronic Pain,Dr. Angela Hernandez,1004
+168,blurred vision,General Physician,1,26,Female,Hypertension,Dr. Angela Hernandez,1004
+286,"cough, blurred vision, hearing loss, chest pain",General Physician,1,24,Male,Eczema,Dr. Angela Hernandez,1004
+674,"joint pain, back pain, fever, loss of taste",General Physician,1,41,Male,Heart Disease,Dr. Angela Hernandez,1004
+273,"fever, hearing loss, back pain",Neurologist,1,78,Female,Obesity,Dr. Angela Hernandez,1005
+447,"dizziness, shortness of breath, cough",Neurologist,5,72,Female,Heart Disease,Dr. Angela Hernandez,1005
+489,"nausea, loss of smell, joint pain",Neurologist,5,28,Male,Allergies,Dr. Angela Hernandez,1005
+705,back pain,Neurologist,4,71,Male,Arthritis,Dr. Angela Hernandez,1005
+769,chest pain,Neurologist,2,63,Male,Obesity,Dr. Angela Hernandez,1005
+809,"hearing loss, cough",Neurologist,5,19,Male,Allergies,Dr. Angela Hernandez,1005
+349,"fever, stiffness, loss of smell",Ophthalmologist,3,28,Female,Obesity,Dr. Angela Hernandez,1006
+400,"blurred vision, cough, sore throat, chest pain",Ophthalmologist,5,41,Male,Asthma,Dr. Angela Hernandez,1006
+459,"redness, dizziness",Ophthalmologist,2,32,Female,Diabetes,Dr. Angela Hernandez,1006
+650,vomiting,Ophthalmologist,5,41,Male,Hypertension,Dr. Angela Hernandez,1006
+837,"hearing loss, swelling, nausea",Ophthalmologist,2,18,Male,Asthma,Dr. Angela Hernandez,1006
+145,"sore throat, stiffness",Orthopedic Surgeon,3,40,Male,Allergies,Dr. Angela Hernandez,1007
+385,"stiffness, blurred vision, swelling, nausea",Orthopedic Surgeon,2,57,Female,Eczema,Dr. Angela Hernandez,1007
+494,"chest pain, fatigue, back pain",Orthopedic Surgeon,5,45,Female,Arthritis,Dr. Angela Hernandez,1007
+687,"loss of taste, nausea, dizziness, abdominal pain",Orthopedic Surgeon,5,47,Female,Asthma,Dr. Angela Hernandez,1007
+89,"cough, headache, fever, joint pain",Pulmonologist,1,62,Male,Hypertension,Dr. Angela Hernandez,1008
+347,swelling,Pulmonologist,5,25,Female,Chronic Pain,Dr. Angela Hernandez,1008
+558,"chest pain, nausea",Pulmonologist,5,49,Male,Allergies,Dr. Angela Hernandez,1008
+587,fatigue,Pulmonologist,4,66,Male,Asthma,Dr. Angela Hernandez,1008
+36,abdominal pain,Rheumatologist,5,24,Female,Hypertension,Dr. Angela Hernandez,1009
+95,"rash, blurred vision",Rheumatologist,3,69,Male,Obesity,Dr. Angela Hernandez,1009
+185,nausea,Rheumatologist,4,80,Male,Asthma,Dr. Angela Hernandez,1009
+584,chest pain,Rheumatologist,3,79,Female,Asthma,Dr. Angela Hernandez,1009
+746,shortness of breath,Rheumatologist,2,70,Male,Allergies,Dr. Angela Hernandez,1009
+882,"dizziness, chest pain, hearing loss",Rheumatologist,4,27,Female,None,Dr. Angela Hernandez,1009
+29,chest pain,Cardiologist,2,60,Female,Obesity,Dr. Brian Moore,1010
+312,"shortness of breath, dizziness, headache, hearing loss",Cardiologist,1,22,Female,Heart Disease,Dr. Brian Moore,1010
+824,"nausea, fatigue, loss of smell",Cardiologist,1,43,Female,Heart Disease,Dr. Brian Moore,1010
+261,"headache, rash",Dermatologist,2,69,Female,Obesity,Dr. Brian Moore,1011
+419,"sore throat, fatigue, redness, hearing loss",Dermatologist,5,26,Male,Allergies,Dr. Brian Moore,1011
+575,hearing loss,Dermatologist,2,28,Male,Eczema,Dr. Brian Moore,1011
+919,"headache, hearing loss",Dermatologist,5,74,Male,Chronic Pain,Dr. Brian Moore,1011
+1001,stiffness,Dermatologist,5,21,Male,Obesity,Dr. Brian Moore,1011
+573,"headache, cough",ENT Specialist,2,28,Female,Heart Disease,Dr. Brian Moore,1012
+684,"headache, joint pain",ENT Specialist,4,27,Male,None,Dr. Brian Moore,1012
+758,swelling,ENT Specialist,3,70,Female,Heart Disease,Dr. Brian Moore,1012
+54,sore throat,Gastroenterologist,2,30,Male,Heart Disease,Dr. Brian Moore,1013
+628,"hearing loss, shortness of breath, loss of taste",Gastroenterologist,3,18,Female,Eczema,Dr. Brian Moore,1013
+772,"headache, hearing loss",Gastroenterologist,1,36,Male,Asthma,Dr. Brian Moore,1013
+310,chest pain,General Physician,1,71,Male,Heart Disease,Dr. Brian Moore,1014
+326,"stiffness, abdominal pain, blurred vision",General Physician,5,35,Female,Obesity,Dr. Brian Moore,1014
+359,"vomiting, hearing loss, loss of taste, fatigue",General Physician,3,48,Male,Chronic Pain,Dr. Brian Moore,1014
+723,"shortness of breath, hearing loss, vomiting",General Physician,2,54,Male,Chronic Pain,Dr. Brian Moore,1014
+171,"blurred vision, joint pain",Neurologist,2,51,Male,Diabetes,Dr. Brian Moore,1015
+246,"vomiting, nausea",Neurologist,5,19,Female,Arthritis,Dr. Brian Moore,1015
+616,"fever, stiffness, headache, swelling",Neurologist,5,35,Male,Chronic Pain,Dr. Brian Moore,1015
+649,"shortness of breath, fever, stiffness",Neurologist,3,50,Male,Eczema,Dr. Brian Moore,1015
+74,"chest pain, shortness of breath",Ophthalmologist,4,44,Male,Diabetes,Dr. Brian Moore,1016
+407,"rash, chest pain, fatigue, back pain",Ophthalmologist,4,23,Male,Diabetes,Dr. Brian Moore,1016
+527,"sore throat, chest pain",Ophthalmologist,1,75,Female,Diabetes,Dr. Brian Moore,1016
+883,"joint pain, sore throat, headache",Ophthalmologist,2,69,Male,Eczema,Dr. Brian Moore,1016
+38,"stiffness, fatigue, swelling, loss of smell",Orthopedic Surgeon,3,57,Male,Allergies,Dr. Brian Moore,1017
+223,"fatigue, back pain",Orthopedic Surgeon,1,36,Male,Hypertension,Dr. Brian Moore,1017
+475,"rash, loss of taste, redness, headache",Orthopedic Surgeon,5,50,Female,None,Dr. Brian Moore,1017
+585,"back pain, shortness of breath",Orthopedic Surgeon,1,79,Male,Chronic Pain,Dr. Brian Moore,1017
+606,dizziness,Orthopedic Surgeon,1,22,Male,Obesity,Dr. Brian Moore,1017
+879,"redness, blurred vision, back pain, sore throat",Orthopedic Surgeon,4,50,Male,Arthritis,Dr. Brian Moore,1017
+466,"loss of taste, redness",Pulmonologist,3,77,Male,Hypertension,Dr. Brian Moore,1018
+480,"fatigue, hearing loss, cough, loss of taste",Pulmonologist,4,31,Female,None,Dr. Brian Moore,1018
+668,"fatigue, hearing loss, joint pain",Pulmonologist,5,58,Male,Hypertension,Dr. Brian Moore,1018
+911,"shortness of breath, joint pain",Pulmonologist,1,64,Male,Allergies,Dr. Brian Moore,1018
+31,"joint pain, sore throat, cough",Rheumatologist,3,57,Female,Diabetes,Dr. Brian Moore,1019
+147,fatigue,Rheumatologist,2,68,Male,Diabetes,Dr. Brian Moore,1019
+652,"cough, loss of taste, swelling, vomiting",Rheumatologist,5,42,Male,Heart Disease,Dr. Brian Moore,1019
+877,"loss of taste, fatigue, back pain, joint pain",Rheumatologist,5,34,Female,Hypertension,Dr. Brian Moore,1019
+380,"sore throat, rash",Cardiologist,3,60,Male,Chronic Pain,Dr. Daniel Kim,1020
+708,"blurred vision, joint pain",Cardiologist,1,29,Female,Chronic Pain,Dr. Daniel Kim,1020
+711,"fever, stiffness, fatigue, hearing loss",Cardiologist,1,43,Female,None,Dr. Daniel Kim,1020
+715,"cough, loss of smell, back pain",Cardiologist,5,66,Male,Diabetes,Dr. Daniel Kim,1020
+859,"blurred vision, rash, vomiting, sore throat",Cardiologist,2,77,Male,Allergies,Dr. Daniel Kim,1020
+896,"cough, shortness of breath, dizziness",Cardiologist,1,22,Female,Hypertension,Dr. Daniel Kim,1020
+87,nausea,Dermatologist,2,27,Female,Asthma,Dr. Daniel Kim,1021
+732,"hearing loss, shortness of breath, fever",Dermatologist,4,70,Female,Chronic Pain,Dr. Daniel Kim,1021
+339,shortness of breath,ENT Specialist,1,79,Female,Asthma,Dr. Daniel Kim,1022
+1007,vomiting,ENT Specialist,4,27,Female,Hypertension,Dr. Daniel Kim,1022
+285,"chest pain, headache",Gastroenterologist,5,19,Female,Allergies,Dr. Daniel Kim,1023
+697,"stiffness, redness, dizziness",Gastroenterologist,3,72,Female,None,Dr. Daniel Kim,1023
+225,"fatigue, sore throat",General Physician,5,30,Male,Eczema,Dr. Daniel Kim,1024
+436,shortness of breath,General Physician,5,20,Male,Obesity,Dr. Daniel Kim,1024
+151,"shortness of breath, cough",Neurologist,3,56,Female,Heart Disease,Dr. Daniel Kim,1025
+193,nausea,Neurologist,2,51,Male,Arthritis,Dr. Daniel Kim,1025
+542,"back pain, nausea",Neurologist,4,44,Male,Obesity,Dr. Daniel Kim,1025
+784,"fever, shortness of breath, rash, blurred vision",Neurologist,5,80,Female,Eczema,Dr. Daniel Kim,1025
+240,"sore throat, cough, blurred vision",Ophthalmologist,3,48,Male,Chronic Pain,Dr. Daniel Kim,1026
+284,"swelling, vomiting, cough, joint pain",Ophthalmologist,4,34,Male,None,Dr. Daniel Kim,1026
+296,"headache, cough, blurred vision, shortness of breath",Ophthalmologist,5,40,Male,Heart Disease,Dr. Daniel Kim,1026
+313,"back pain, redness, cough, nausea",Ophthalmologist,5,33,Male,Eczema,Dr. Daniel Kim,1026
+483,"fever, fatigue, blurred vision, back pain",Ophthalmologist,4,75,Female,Chronic Pain,Dr. Daniel Kim,1026
+660,"rash, dizziness",Ophthalmologist,3,25,Female,Arthritis,Dr. Daniel Kim,1026
+829,"stiffness, swelling, nausea",Ophthalmologist,2,51,Female,None,Dr. Daniel Kim,1026
+45,vomiting,Orthopedic Surgeon,5,71,Male,Allergies,Dr. Daniel Kim,1027
+952,"swelling, headache",Orthopedic Surgeon,3,60,Female,Obesity,Dr. Daniel Kim,1027
+219,"vomiting, blurred vision, fatigue, chest pain",Pulmonologist,4,41,Female,Obesity,Dr. Daniel Kim,1028
+433,"hearing loss, loss of taste",Pulmonologist,1,34,Male,Heart Disease,Dr. Daniel Kim,1028
+479,joint pain,Pulmonologist,5,56,Male,Heart Disease,Dr. Daniel Kim,1028
+797,"back pain, stiffness",Pulmonologist,4,18,Female,Hypertension,Dr. Daniel Kim,1028
+843,"back pain, sore throat",Pulmonologist,1,80,Female,Asthma,Dr. Daniel Kim,1028
+69,"abdominal pain, hearing loss, shortness of breath, loss of smell",Rheumatologist,1,40,Male,Allergies,Dr. Daniel Kim,1029
+196,"dizziness, loss of taste, fever, blurred vision",Rheumatologist,5,24,Female,Hypertension,Dr. Daniel Kim,1029
+455,rash,Rheumatologist,5,58,Female,Hypertension,Dr. Daniel Kim,1029
+491,cough,Rheumatologist,4,32,Female,Allergies,Dr. Daniel Kim,1029
+638,"stiffness, hearing loss, cough",Rheumatologist,2,56,Female,Arthritis,Dr. Daniel Kim,1029
+869,"headache, shortness of breath",Rheumatologist,3,78,Female,Diabetes,Dr. Daniel Kim,1029
+278,"back pain, cough",Cardiologist,3,55,Female,Hypertension,Dr. David Lee,1030
+582,"headache, vomiting, rash",Cardiologist,1,59,Female,Allergies,Dr. David Lee,1030
+23,"stiffness, dizziness, redness, headache",Dermatologist,5,51,Female,Allergies,Dr. David Lee,1031
+93,"swelling, joint pain, hearing loss",Dermatologist,1,31,Female,Arthritis,Dr. David Lee,1031
+119,"headache, swelling, joint pain",Dermatologist,4,62,Female,Chronic Pain,Dr. David Lee,1031
+586,"sore throat, swelling, chest pain, headache",Dermatologist,5,63,Female,Chronic Pain,Dr. David Lee,1031
+635,swelling,Dermatologist,3,37,Female,None,Dr. David Lee,1031
+523,"vomiting, back pain",ENT Specialist,4,64,Male,Allergies,Dr. David Lee,1032
+681,"headache, nausea",ENT Specialist,5,24,Male,None,Dr. David Lee,1032
+341,"loss of taste, swelling, redness",Gastroenterologist,5,38,Female,Asthma,Dr. David Lee,1033
+412,"loss of taste, redness, nausea, chest pain",Gastroenterologist,4,74,Female,None,Dr. David Lee,1033
+719,"fatigue, blurred vision, stiffness",Gastroenterologist,1,30,Female,Chronic Pain,Dr. David Lee,1033
+742,cough,Gastroenterologist,5,65,Female,Allergies,Dr. David Lee,1033
+997,nausea,Gastroenterologist,3,78,Male,Obesity,Dr. David Lee,1033
+345,"shortness of breath, loss of smell",General Physician,4,53,Female,Allergies,Dr. David Lee,1034
+457,"sore throat, loss of taste",General Physician,2,56,Female,Obesity,Dr. David Lee,1034
+543,"loss of smell, stiffness",General Physician,2,48,Female,Asthma,Dr. David Lee,1034
+813,"abdominal pain, loss of taste, hearing loss, blurred vision",General Physician,1,77,Male,Chronic Pain,Dr. David Lee,1034
+509,nausea,Neurologist,5,19,Male,Heart Disease,Dr. David Lee,1035
+601,"loss of taste, blurred vision",Neurologist,4,68,Male,Hypertension,Dr. David Lee,1035
+651,"shortness of breath, swelling, sore throat",Neurologist,2,33,Female,Eczema,Dr. David Lee,1035
+748,"headache, nausea",Neurologist,5,69,Male,Obesity,Dr. David Lee,1035
+985,"redness, headache, chest pain",Neurologist,2,53,Female,Asthma,Dr. David Lee,1035
+336,sore throat,Ophthalmologist,3,78,Male,Allergies,Dr. David Lee,1036
+342,"nausea, headache",Ophthalmologist,3,61,Male,Arthritis,Dr. David Lee,1036
+446,"dizziness, chest pain",Ophthalmologist,1,43,Male,Eczema,Dr. David Lee,1036
+803,"back pain, redness",Ophthalmologist,5,19,Female,Asthma,Dr. David Lee,1036
+217,"headache, vomiting",Orthopedic Surgeon,1,26,Female,Hypertension,Dr. David Lee,1037
+262,"vomiting, loss of taste",Orthopedic Surgeon,4,23,Male,Heart Disease,Dr. David Lee,1037
+802,"swelling, fever, cough",Orthopedic Surgeon,4,79,Male,Asthma,Dr. David Lee,1037
+65,"shortness of breath, fever, nausea",Pulmonologist,2,31,Male,Heart Disease,Dr. David Lee,1038
+68,"vomiting, blurred vision, loss of taste, rash",Pulmonologist,3,47,Male,Obesity,Dr. David Lee,1038
+100,"loss of taste, redness",Pulmonologist,3,68,Male,Obesity,Dr. David Lee,1038
+146,"blurred vision, loss of smell",Pulmonologist,5,29,Male,Diabetes,Dr. David Lee,1038
+167,"redness, joint pain, abdominal pain, back pain",Pulmonologist,5,65,Female,Obesity,Dr. David Lee,1038
+872,"dizziness, abdominal pain, stiffness",Pulmonologist,3,49,Female,Obesity,Dr. David Lee,1038
+929,"hearing loss, joint pain, stiffness",Pulmonologist,3,31,Male,Eczema,Dr. David Lee,1038
+592,fatigue,Rheumatologist,3,56,Male,Obesity,Dr. David Lee,1039
+820,"chest pain, stiffness",Rheumatologist,4,39,Female,Asthma,Dr. David Lee,1039
+945,loss of smell,Rheumatologist,3,67,Female,Heart Disease,Dr. David Lee,1039
+239,"headache, fever, back pain, joint pain",Cardiologist,5,29,Female,Obesity,Dr. Emily Davis,1040
+484,"rash, blurred vision, fatigue, vomiting",Cardiologist,5,68,Female,Chronic Pain,Dr. Emily Davis,1040
+528,"joint pain, headache, swelling",Cardiologist,4,19,Male,Hypertension,Dr. Emily Davis,1040
+535,rash,Cardiologist,1,29,Male,Obesity,Dr. Emily Davis,1040
+804,"swelling, headache, cough",Cardiologist,4,66,Female,Asthma,Dr. Emily Davis,1040
+860,"dizziness, rash, back pain",Cardiologist,5,80,Female,Diabetes,Dr. Emily Davis,1040
+43,"blurred vision, nausea, headache",Dermatologist,5,57,Male,Heart Disease,Dr. Emily Davis,1041
+348,stiffness,Dermatologist,1,54,Female,None,Dr. Emily Davis,1041
+670,vomiting,Dermatologist,1,28,Female,Hypertension,Dr. Emily Davis,1041
+693,"cough, sore throat",Dermatologist,3,74,Male,Diabetes,Dr. Emily Davis,1041
+716,"vomiting, headache, blurred vision, fever",Dermatologist,1,65,Male,Hypertension,Dr. Emily Davis,1041
+834,"nausea, sore throat, dizziness, fatigue",Dermatologist,3,77,Male,Obesity,Dr. Emily Davis,1041
+904,cough,Dermatologist,4,80,Female,Eczema,Dr. Emily Davis,1041
+905,"cough, headache, sore throat, abdominal pain",Dermatologist,5,52,Female,Eczema,Dr. Emily Davis,1041
+908,"swelling, loss of taste, fatigue, abdominal pain",Dermatologist,3,53,Male,Diabetes,Dr. Emily Davis,1041
+85,"shortness of breath, nausea, swelling",ENT Specialist,5,53,Male,None,Dr. Emily Davis,1042
+109,"joint pain, hearing loss, loss of smell",ENT Specialist,4,41,Female,None,Dr. Emily Davis,1042
+901,"nausea, hearing loss, headache",ENT Specialist,3,68,Female,Allergies,Dr. Emily Davis,1042
+955,"abdominal pain, blurred vision, cough, rash",ENT Specialist,1,47,Female,Asthma,Dr. Emily Davis,1042
+50,"stiffness, fever, fatigue, nausea",Gastroenterologist,4,20,Female,Arthritis,Dr. Emily Davis,1043
+275,"joint pain, vomiting",Gastroenterologist,2,45,Male,Obesity,Dr. Emily Davis,1043
+394,"fatigue, back pain, dizziness, blurred vision",Gastroenterologist,3,23,Male,Eczema,Dr. Emily Davis,1043
+524,"back pain, fever",Gastroenterologist,4,46,Male,Eczema,Dr. Emily Davis,1043
+678,"sore throat, loss of smell, vomiting, loss of taste",Gastroenterologist,4,62,Male,Arthritis,Dr. Emily Davis,1043
+918,"fever, vomiting",Gastroenterologist,3,46,Female,None,Dr. Emily Davis,1043
+80,shortness of breath,General Physician,1,34,Female,Heart Disease,Dr. Emily Davis,1044
+162,"blurred vision, headache",General Physician,5,36,Female,Chronic Pain,Dr. Emily Davis,1044
+506,"vomiting, sore throat, rash, loss of smell",General Physician,5,39,Male,Allergies,Dr. Emily Davis,1044
+518,"joint pain, redness, blurred vision, loss of taste",General Physician,4,41,Female,Allergies,Dr. Emily Davis,1044
+580,"nausea, redness, loss of smell",General Physician,5,41,Male,Diabetes,Dr. Emily Davis,1044
+637,"joint pain, dizziness, cough",General Physician,1,71,Female,Eczema,Dr. Emily Davis,1044
+721,"dizziness, headache, stiffness, vomiting",Neurologist,4,71,Female,Hypertension,Dr. Emily Davis,1045
+749,"back pain, redness, dizziness",Neurologist,2,24,Male,Allergies,Dr. Emily Davis,1045
+337,"chest pain, cough",Ophthalmologist,3,63,Male,Arthritis,Dr. Emily Davis,1046
+340,"shortness of breath, headache",Ophthalmologist,5,47,Female,Arthritis,Dr. Emily Davis,1046
+382,"vomiting, stiffness",Ophthalmologist,4,57,Female,Obesity,Dr. Emily Davis,1046
+827,headache,Ophthalmologist,3,63,Male,Diabetes,Dr. Emily Davis,1046
+910,"blurred vision, back pain, redness",Ophthalmologist,4,51,Male,Chronic Pain,Dr. Emily Davis,1046
+351,stiffness,Orthopedic Surgeon,2,79,Male,Heart Disease,Dr. Emily Davis,1047
+490,"joint pain, shortness of breath, rash",Orthopedic Surgeon,1,24,Male,Arthritis,Dr. Emily Davis,1047
+750,"loss of taste, hearing loss, vomiting",Orthopedic Surgeon,3,56,Female,Hypertension,Dr. Emily Davis,1047
+866,"vomiting, rash",Orthopedic Surgeon,3,62,Female,Obesity,Dr. Emily Davis,1047
+128,"fatigue, shortness of breath",Pulmonologist,3,74,Male,Asthma,Dr. Emily Davis,1048
+669,stiffness,Pulmonologist,2,53,Female,Chronic Pain,Dr. Emily Davis,1048
+825,"redness, swelling",Pulmonologist,3,62,Male,Heart Disease,Dr. Emily Davis,1048
+861,"rash, cough, blurred vision",Pulmonologist,5,40,Male,Obesity,Dr. Emily Davis,1048
+878,"back pain, loss of smell, nausea, rash",Pulmonologist,2,39,Female,Hypertension,Dr. Emily Davis,1048
+40,"blurred vision, nausea, loss of smell, rash",Rheumatologist,5,69,Female,Obesity,Dr. Emily Davis,1049
+56,fever,Rheumatologist,5,33,Female,Allergies,Dr. Emily Davis,1049
+99,"swelling, rash, sore throat, dizziness",Rheumatologist,4,35,Male,Chronic Pain,Dr. Emily Davis,1049
+137,"shortness of breath, nausea, headache, hearing loss",Rheumatologist,3,67,Female,Obesity,Dr. Emily Davis,1049
+787,"sore throat, fever",Rheumatologist,4,50,Female,Chronic Pain,Dr. Emily Davis,1049
+805,"hearing loss, cough",Rheumatologist,2,73,Male,Asthma,Dr. Emily Davis,1049
+850,"loss of taste, loss of smell, shortness of breath, back pain",Rheumatologist,4,59,Male,Diabetes,Dr. Emily Davis,1049
+893,blurred vision,Rheumatologist,4,32,Female,Arthritis,Dr. Emily Davis,1049
+947,"shortness of breath, nausea, hearing loss",Rheumatologist,5,39,Male,Hypertension,Dr. Emily Davis,1049
+52,"cough, redness, hearing loss",Cardiologist,4,32,Female,Obesity,Dr. James Johnson,1050
+226,"dizziness, stiffness, redness",Cardiologist,3,79,Male,Asthma,Dr. James Johnson,1050
+946,shortness of breath,Cardiologist,4,61,Male,Asthma,Dr. James Johnson,1050
+962,"shortness of breath, redness, sore throat",Cardiologist,1,28,Male,Eczema,Dr. James Johnson,1050
+1005,"sore throat, back pain",Cardiologist,5,54,Male,Heart Disease,Dr. James Johnson,1050
+848,"loss of taste, rash",Dermatologist,4,47,Male,Obesity,Dr. James Johnson,1051
+1002,"nausea, shortness of breath, joint pain",Dermatologist,2,80,Female,Diabetes,Dr. James Johnson,1051
+27,"blurred vision, redness",ENT Specialist,2,44,Female,Diabetes,Dr. James Johnson,1052
+133,"redness, sore throat, fever",ENT Specialist,1,33,Male,Obesity,Dr. James Johnson,1052
+801,hearing loss,ENT Specialist,5,54,Female,Eczema,Dr. James Johnson,1052
+851,"cough, fatigue",ENT Specialist,1,48,Male,Hypertension,Dr. James Johnson,1052
+1008,"redness, shortness of breath, blurred vision, dizziness",ENT Specialist,5,44,Male,None,Dr. James Johnson,1052
+136,"vomiting, dizziness, blurred vision, stiffness",Gastroenterologist,4,72,Male,Arthritis,Dr. James Johnson,1053
+547,"nausea, fever, chest pain",Gastroenterologist,3,47,Female,None,Dr. James Johnson,1053
+974,"abdominal pain, redness",Gastroenterologist,1,63,Female,Chronic Pain,Dr. James Johnson,1053
+249,"dizziness, joint pain, blurred vision, sore throat",General Physician,3,54,Male,Heart Disease,Dr. James Johnson,1054
+550,"dizziness, headache",General Physician,1,44,Female,None,Dr. James Johnson,1054
+939,"headache, fatigue, hearing loss",General Physician,4,29,Female,Asthma,Dr. James Johnson,1054
+79,hearing loss,Neurologist,1,32,Male,Allergies,Dr. James Johnson,1055
+144,nausea,Neurologist,5,58,Female,Asthma,Dr. James Johnson,1055
+327,"chest pain, cough, redness, dizziness",Neurologist,3,49,Female,Eczema,Dr. James Johnson,1055
+594,"loss of smell, abdominal pain, cough",Neurologist,2,59,Female,Heart Disease,Dr. James Johnson,1055
+874,dizziness,Neurologist,4,20,Female,Eczema,Dr. James Johnson,1055
+279,"rash, nausea, headache",Ophthalmologist,3,53,Male,Diabetes,Dr. James Johnson,1056
+233,"rash, loss of taste, redness, joint pain",Orthopedic Surgeon,5,47,Male,Heart Disease,Dr. James Johnson,1057
+343,"loss of smell, joint pain",Orthopedic Surgeon,1,79,Female,Eczema,Dr. James Johnson,1057
+662,"redness, vomiting, nausea",Orthopedic Surgeon,4,68,Female,Diabetes,Dr. James Johnson,1057
+871,"shortness of breath, blurred vision",Orthopedic Surgeon,5,43,Female,None,Dr. James Johnson,1057
+270,"blurred vision, swelling",Pulmonologist,3,77,Male,Eczema,Dr. James Johnson,1058
+497,"headache, back pain, joint pain",Pulmonologist,4,42,Female,Chronic Pain,Dr. James Johnson,1058
+659,"back pain, fever",Pulmonologist,1,45,Male,Asthma,Dr. James Johnson,1058
+671,"vomiting, swelling, shortness of breath, redness",Pulmonologist,1,67,Male,Obesity,Dr. James Johnson,1058
+700,"loss of taste, abdominal pain, hearing loss",Pulmonologist,1,74,Male,Arthritis,Dr. James Johnson,1058
+899,"sore throat, loss of taste, loss of smell",Pulmonologist,5,77,Female,Obesity,Dr. James Johnson,1058
+78,"rash, nausea",Rheumatologist,4,56,Male,Arthritis,Dr. James Johnson,1059
+402,"loss of taste, shortness of breath",Rheumatologist,4,72,Female,Chronic Pain,Dr. James Johnson,1059
+623,"fatigue, joint pain, sore throat",Rheumatologist,5,27,Male,Asthma,Dr. James Johnson,1059
+781,"vomiting, dizziness",Rheumatologist,2,51,Male,Chronic Pain,Dr. James Johnson,1059
+873,cough,Rheumatologist,4,36,Female,Hypertension,Dr. James Johnson,1059
+75,fever,Cardiologist,1,73,Female,Eczema,Dr. Jennifer Lopez,1060
+126,"loss of smell, loss of taste, redness",Cardiologist,3,55,Female,Obesity,Dr. Jennifer Lopez,1060
+421,"back pain, headache, sore throat",Cardiologist,4,63,Female,Obesity,Dr. Jennifer Lopez,1060
+912,"stiffness, loss of taste",Cardiologist,4,31,Female,Arthritis,Dr. Jennifer Lopez,1060
+55,"loss of taste, dizziness, loss of smell, joint pain",Dermatologist,3,57,Male,Asthma,Dr. Jennifer Lopez,1061
+328,hearing loss,Dermatologist,4,28,Female,Arthritis,Dr. Jennifer Lopez,1061
+551,"blurred vision, swelling, stiffness, rash",Dermatologist,2,80,Female,Hypertension,Dr. Jennifer Lopez,1061
+989,"abdominal pain, shortness of breath",Dermatologist,2,55,Male,Hypertension,Dr. Jennifer Lopez,1061
+608,"headache, stiffness, shortness of breath, sore throat",ENT Specialist,3,79,Female,Arthritis,Dr. Jennifer Lopez,1062
+675,"chest pain, joint pain, loss of smell",ENT Specialist,1,71,Female,Arthritis,Dr. Jennifer Lopez,1062
+767,"joint pain, nausea, stiffness, cough",ENT Specialist,5,74,Male,Asthma,Dr. Jennifer Lopez,1062
+793,hearing loss,ENT Specialist,4,34,Male,Arthritis,Dr. Jennifer Lopez,1062
+823,"cough, blurred vision",ENT Specialist,4,45,Male,Obesity,Dr. Jennifer Lopez,1062
+183,"headache, fever, sore throat, stiffness",Gastroenterologist,1,36,Female,Obesity,Dr. Jennifer Lopez,1063
+682,redness,Gastroenterologist,4,59,Male,Diabetes,Dr. Jennifer Lopez,1063
+783,"sore throat, abdominal pain, shortness of breath",Gastroenterologist,1,30,Female,Heart Disease,Dr. Jennifer Lopez,1063
+414,sore throat,General Physician,4,25,Male,Heart Disease,Dr. Jennifer Lopez,1064
+492,"back pain, sore throat, shortness of breath, loss of taste",General Physician,3,53,Male,Eczema,Dr. Jennifer Lopez,1064
+353,"back pain, rash",Neurologist,4,61,Female,Arthritis,Dr. Jennifer Lopez,1065
+604,back pain,Neurologist,4,50,Female,Obesity,Dr. Jennifer Lopez,1065
+227,"swelling, loss of smell, hearing loss",Ophthalmologist,2,68,Female,Obesity,Dr. Jennifer Lopez,1066
+683,"swelling, nausea, hearing loss, cough",Ophthalmologist,4,27,Male,Asthma,Dr. Jennifer Lopez,1066
+889,"sore throat, rash",Ophthalmologist,5,79,Female,Arthritis,Dr. Jennifer Lopez,1066
+967,"sore throat, dizziness",Ophthalmologist,4,50,Female,Diabetes,Dr. Jennifer Lopez,1066
+282,"blurred vision, nausea, chest pain",Orthopedic Surgeon,2,51,Male,Diabetes,Dr. Jennifer Lopez,1067
+409,"rash, shortness of breath",Orthopedic Surgeon,5,64,Male,Hypertension,Dr. Jennifer Lopez,1067
+507,fatigue,Orthopedic Surgeon,3,61,Male,None,Dr. Jennifer Lopez,1067
+596,"stiffness, swelling, headache",Orthopedic Surgeon,4,30,Male,Arthritis,Dr. Jennifer Lopez,1067
+667,"headache, loss of taste",Orthopedic Surgeon,1,57,Male,Arthritis,Dr. Jennifer Lopez,1067
+854,shortness of breath,Orthopedic Surgeon,4,52,Female,Obesity,Dr. Jennifer Lopez,1067
+943,"sore throat, vomiting, headache, hearing loss",Orthopedic Surgeon,3,18,Female,Heart Disease,Dr. Jennifer Lopez,1067
+964,"stiffness, loss of smell, fever, vomiting",Orthopedic Surgeon,5,78,Male,None,Dr. Jennifer Lopez,1067
+94,"back pain, cough, loss of taste, redness",Pulmonologist,4,47,Female,Arthritis,Dr. Jennifer Lopez,1068
+124,"dizziness, loss of taste",Pulmonologist,1,23,Male,Heart Disease,Dr. Jennifer Lopez,1068
+179,"loss of smell, rash",Pulmonologist,4,59,Female,None,Dr. Jennifer Lopez,1068
+255,shortness of breath,Pulmonologist,1,24,Male,Chronic Pain,Dr. Jennifer Lopez,1068
+819,"loss of smell, loss of taste, stiffness",Pulmonologist,4,23,Female,None,Dr. Jennifer Lopez,1068
+213,"fatigue, loss of taste",Rheumatologist,3,22,Female,Eczema,Dr. Jennifer Lopez,1069
+452,"shortness of breath, fever",Rheumatologist,3,40,Male,Obesity,Dr. Jennifer Lopez,1069
+743,"loss of smell, cough, headache, loss of taste",Rheumatologist,5,72,Female,Hypertension,Dr. Jennifer Lopez,1069
+1015,"loss of taste, nausea, redness",Rheumatologist,1,61,Female,Chronic Pain,Dr. Jennifer Lopez,1069
+287,"nausea, back pain, stiffness",Cardiologist,2,64,Male,Allergies,Dr. John Smith,1070
+355,"chest pain, loss of taste, swelling, stiffness",Cardiologist,4,69,Male,Hypertension,Dr. John Smith,1070
+393,"redness, loss of taste, stiffness, joint pain",Cardiologist,3,37,Male,Diabetes,Dr. John Smith,1070
+920,"fever, rash, loss of smell, cough",Cardiologist,4,56,Female,Allergies,Dr. John Smith,1070
+86,"joint pain, dizziness",Cardiologist,4,25,Female,None,Dr. John Smith,1070
+203,"cough, shortness of breath, joint pain",Cardiologist,2,35,Male,Arthritis,Dr. John Smith,1070
+390,"back pain, swelling, loss of smell",Cardiologist,2,64,Male,Asthma,Dr. John Smith,1070
+444,cough,Cardiologist,5,28,Male,Hypertension,Dr. John Smith,1070
+529,"abdominal pain, cough",Cardiologist,1,56,Female,None,Dr. John Smith,1070
+770,fever,Cardiologist,4,37,Male,Chronic Pain,Dr. John Smith,1070
+778,"sore throat, nausea, fatigue, joint pain",Cardiologist,1,28,Male,Arthritis,Dr. John Smith,1070
+789,"loss of smell, dizziness",Cardiologist,3,21,Female,Diabetes,Dr. John Smith,1070
+981,"cough, back pain, headache, loss of taste",Cardiologist,4,41,Male,Asthma,Dr. John Smith,1070
+235,"fever, rash",Dermatologist,4,30,Male,Arthritis,Dr. John Smith,1071
+704,"chest pain, cough, blurred vision, headache",Dermatologist,2,71,Female,Diabetes,Dr. John Smith,1071
+959,"vomiting, redness, rash, shortness of breath",Dermatologist,1,26,Female,Eczema,Dr. John Smith,1071
+979,"chest pain, fever",Dermatologist,1,26,Female,Eczema,Dr. John Smith,1071
+154,"fatigue, blurred vision, cough",Dermatologist,1,31,Male,Hypertension,Dr. John Smith,1071
+663,"joint pain, sore throat, nausea, blurred vision",Dermatologist,5,73,Male,Heart Disease,Dr. John Smith,1071
+887,loss of taste,Dermatologist,5,57,Female,Asthma,Dr. John Smith,1071
+972,"shortness of breath, abdominal pain, nausea",Dermatologist,5,44,Female,Heart Disease,Dr. John Smith,1071
+230,"shortness of breath, loss of smell, swelling, cough",ENT Specialist,1,24,Male,Diabetes,Dr. John Smith,1072
+329,"dizziness, headache",ENT Specialist,2,60,Female,Eczema,Dr. John Smith,1072
+482,fever,ENT Specialist,1,39,Male,Diabetes,Dr. John Smith,1072
+552,"headache, blurred vision",ENT Specialist,5,62,Female,Arthritis,Dr. John Smith,1072
+806,"loss of smell, dizziness, blurred vision, joint pain",ENT Specialist,4,25,Male,Hypertension,Dr. John Smith,1072
+63,"shortness of breath, dizziness, redness, stiffness",ENT Specialist,4,47,Female,Asthma,Dr. John Smith,1072
+243,"abdominal pain, joint pain, hearing loss, fever",ENT Specialist,2,52,Female,Diabetes,Dr. John Smith,1072
+643,"sore throat, dizziness, fever",ENT Specialist,3,65,Female,Hypertension,Dr. John Smith,1072
+949,"abdominal pain, fatigue, stiffness, nausea",ENT Specialist,3,66,Male,Diabetes,Dr. John Smith,1072
+398,"headache, vomiting, joint pain, nausea",Gastroenterologist,2,21,Female,Diabetes,Dr. John Smith,1073
+413,dizziness,Gastroenterologist,3,67,Male,None,Dr. John Smith,1073
+448,"dizziness, shortness of breath, hearing loss",Gastroenterologist,4,65,Female,Hypertension,Dr. John Smith,1073
+546,"loss of smell, rash, redness",Gastroenterologist,2,75,Female,Asthma,Dr. John Smith,1073
+620,chest pain,Gastroenterologist,3,39,Female,None,Dr. John Smith,1073
+631,"sore throat, back pain, fever",Gastroenterologist,4,41,Male,Chronic Pain,Dr. John Smith,1073
+977,"loss of taste, shortness of breath",Gastroenterologist,3,77,Male,Obesity,Dr. John Smith,1073
+961,redness,Gastroenterologist,1,22,Male,None,Dr. John Smith,1073
+1013,fatigue,Gastroenterologist,1,33,Male,Heart Disease,Dr. John Smith,1073
+110,"cough, rash, abdominal pain, nausea",General Physician,4,64,Female,Diabetes,Dr. John Smith,1074
+131,"stiffness, abdominal pain",General Physician,4,66,Female,Allergies,Dr. John Smith,1074
+320,"abdominal pain, back pain, dizziness, headache",General Physician,3,53,Male,Diabetes,Dr. John Smith,1074
+468,back pain,General Physician,1,68,Female,Diabetes,Dr. John Smith,1074
+519,"shortness of breath, fever, fatigue",General Physician,2,31,Male,Diabetes,Dr. John Smith,1074
+756,"redness, shortness of breath, chest pain",General Physician,5,20,Female,Asthma,Dr. John Smith,1074
+900,"dizziness, hearing loss",General Physician,4,67,Female,Chronic Pain,Dr. John Smith,1074
+999,"back pain, cough, sore throat",General Physician,4,29,Male,Diabetes,Dr. John Smith,1074
+173,"abdominal pain, stiffness, joint pain, fever",General Physician,2,66,Male,None,Dr. John Smith,1074
+610,"joint pain, dizziness, swelling",General Physician,1,19,Male,Chronic Pain,Dr. John Smith,1074
+855,"redness, joint pain",General Physician,5,78,Female,Asthma,Dr. John Smith,1074
+210,blurred vision,Neurologist,3,43,Male,Allergies,Dr. John Smith,1075
+753,"joint pain, swelling, shortness of breath",Neurologist,5,60,Male,Diabetes,Dr. John Smith,1075
+799,"blurred vision, stiffness",Neurologist,4,41,Female,Hypertension,Dr. John Smith,1075
+933,"redness, dizziness",Neurologist,2,75,Female,Eczema,Dr. John Smith,1075
+160,"shortness of breath, cough, joint pain, rash",Neurologist,4,40,Female,Arthritis,Dr. John Smith,1075
+165,chest pain,Neurologist,4,63,Female,None,Dr. John Smith,1075
+186,hearing loss,Neurologist,3,35,Female,Eczema,Dr. John Smith,1075
+363,"loss of smell, back pain, hearing loss, joint pain",Neurologist,5,18,Female,None,Dr. John Smith,1075
+626,"headache, redness, vomiting",Neurologist,1,24,Male,Allergies,Dr. John Smith,1075
+830,"abdominal pain, nausea",Neurologist,2,72,Male,Hypertension,Dr. John Smith,1075
+195,"joint pain, fatigue",Ophthalmologist,4,62,Male,Eczema,Dr. John Smith,1076
+323,"shortness of breath, cough, abdominal pain, loss of taste",Ophthalmologist,5,78,Female,Diabetes,Dr. John Smith,1076
+739,blurred vision,Ophthalmologist,2,61,Female,Allergies,Dr. John Smith,1076
+37,"chest pain, stiffness, fever",Ophthalmologist,4,39,Female,Obesity,Dr. John Smith,1076
+178,rash,Ophthalmologist,5,55,Female,Heart Disease,Dr. John Smith,1076
+237,"nausea, abdominal pain, fatigue",Ophthalmologist,3,50,Female,Obesity,Dr. John Smith,1076
+369,headache,Ophthalmologist,3,60,Female,Heart Disease,Dr. John Smith,1076
+462,"blurred vision, nausea, fever",Ophthalmologist,4,40,Male,Obesity,Dr. John Smith,1076
+485,"redness, fatigue, loss of taste, loss of smell",Ophthalmologist,1,73,Female,Eczema,Dr. John Smith,1076
+545,"dizziness, headache, loss of smell",Ophthalmologist,4,35,Male,None,Dr. John Smith,1076
+710,"nausea, cough",Ophthalmologist,3,65,Male,Hypertension,Dr. John Smith,1076
+868,"fatigue, vomiting, loss of taste",Ophthalmologist,3,54,Female,Heart Disease,Dr. John Smith,1076
+885,"loss of taste, dizziness, fatigue",Ophthalmologist,2,20,Female,Heart Disease,Dr. John Smith,1076
+992,hearing loss,Ophthalmologist,2,69,Female,Heart Disease,Dr. John Smith,1076
+30,"fatigue, hearing loss, headache, joint pain",Orthopedic Surgeon,1,31,Male,Diabetes,Dr. John Smith,1077
+205,headache,Orthopedic Surgeon,1,57,Male,None,Dr. John Smith,1077
+915,abdominal pain,Orthopedic Surgeon,2,27,Female,Heart Disease,Dr. John Smith,1077
+177,"cough, blurred vision",Orthopedic Surgeon,5,35,Female,Asthma,Dr. John Smith,1077
+493,"rash, cough, vomiting",Orthopedic Surgeon,1,69,Female,Hypertension,Dr. John Smith,1077
+564,headache,Orthopedic Surgeon,2,35,Male,Asthma,Dr. John Smith,1077
+993,fatigue,Orthopedic Surgeon,3,57,Male,Heart Disease,Dr. John Smith,1077
+231,"hearing loss, loss of smell, joint pain",Pulmonologist,2,78,Male,Asthma,Dr. John Smith,1078
+334,back pain,Pulmonologist,5,62,Male,Arthritis,Dr. John Smith,1078
+554,joint pain,Pulmonologist,5,30,Female,Allergies,Dr. John Smith,1078
+738,"loss of smell, stiffness, loss of taste",Pulmonologist,1,69,Male,Obesity,Dr. John Smith,1078
+969,rash,Pulmonologist,1,36,Female,Allergies,Dr. John Smith,1078
+197,swelling,Pulmonologist,1,76,Female,Heart Disease,Dr. John Smith,1078
+370,blurred vision,Pulmonologist,4,68,Female,Obesity,Dr. John Smith,1078
+525,"shortness of breath, fatigue, abdominal pain",Pulmonologist,5,67,Female,Diabetes,Dr. John Smith,1078
+559,"abdominal pain, fatigue, stiffness, rash",Pulmonologist,4,49,Male,Hypertension,Dr. John Smith,1078
+563,dizziness,Pulmonologist,4,25,Male,Heart Disease,Dr. John Smith,1078
+761,"swelling, stiffness",Rheumatologist,4,26,Male,Obesity,Dr. John Smith,1079
+118,"fatigue, cough",Rheumatologist,1,55,Male,Obesity,Dr. John Smith,1079
+142,"nausea, dizziness",Rheumatologist,1,32,Male,Diabetes,Dr. John Smith,1079
+202,joint pain,Rheumatologist,2,19,Female,None,Dr. John Smith,1079
+260,"joint pain, stiffness",Cardiologist,5,23,Female,Asthma,Dr. Karen Wright,1080
+383,"blurred vision, hearing loss, dizziness",Cardiologist,4,22,Female,Chronic Pain,Dr. Karen Wright,1080
+714,"hearing loss, abdominal pain, back pain, joint pain",Cardiologist,2,21,Male,Allergies,Dr. Karen Wright,1080
+881,shortness of breath,Cardiologist,4,61,Female,Allergies,Dr. Karen Wright,1080
+951,loss of smell,Cardiologist,1,61,Male,Asthma,Dr. Karen Wright,1080
+66,"loss of smell, vomiting, chest pain",Dermatologist,5,68,Female,Diabetes,Dr. Karen Wright,1081
+155,hearing loss,Dermatologist,2,59,Female,Heart Disease,Dr. Karen Wright,1081
+376,stiffness,Dermatologist,5,45,Female,Eczema,Dr. Karen Wright,1081
+486,stiffness,Dermatologist,5,50,Female,Eczema,Dr. Karen Wright,1081
+614,"fever, abdominal pain",Dermatologist,2,47,Male,Eczema,Dr. Karen Wright,1081
+726,"blurred vision, dizziness, abdominal pain",Dermatologist,1,25,Male,None,Dr. Karen Wright,1081
+766,headache,Dermatologist,5,22,Male,Obesity,Dr. Karen Wright,1081
+107,"dizziness, rash, fatigue",ENT Specialist,3,51,Female,Eczema,Dr. Karen Wright,1082
+472,"sore throat, chest pain, rash, headache",ENT Specialist,4,71,Male,Diabetes,Dr. Karen Wright,1082
+565,"cough, fatigue, joint pain, headache",ENT Specialist,1,43,Female,Asthma,Dr. Karen Wright,1082
+566,"joint pain, rash, loss of smell, loss of taste",ENT Specialist,3,61,Female,Hypertension,Dr. Karen Wright,1082
+645,"joint pain, vomiting, chest pain, swelling",ENT Specialist,2,64,Female,None,Dr. Karen Wright,1082
+773,"fatigue, fever",ENT Specialist,3,58,Male,Allergies,Dr. Karen Wright,1082
+164,"rash, headache, nausea, shortness of breath",Gastroenterologist,5,66,Male,Eczema,Dr. Karen Wright,1083
+521,"back pain, sore throat, shortness of breath",Gastroenterologist,2,60,Male,Obesity,Dr. Karen Wright,1083
+537,"sore throat, stiffness, loss of smell",Gastroenterologist,2,62,Male,Allergies,Dr. Karen Wright,1083
+26,"rash, hearing loss, blurred vision",General Physician,2,52,Male,Heart Disease,Dr. Karen Wright,1084
+266,"headache, loss of smell",General Physician,4,65,Male,None,Dr. Karen Wright,1084
+361,nausea,General Physician,2,49,Male,Heart Disease,Dr. Karen Wright,1084
+112,blurred vision,Neurologist,3,56,Female,Chronic Pain,Dr. Karen Wright,1085
+283,nausea,Neurologist,3,62,Male,Diabetes,Dr. Karen Wright,1085
+759,"blurred vision, back pain",Neurologist,1,35,Male,Heart Disease,Dr. Karen Wright,1085
+792,"swelling, headache, loss of smell, chest pain",Neurologist,3,70,Male,Chronic Pain,Dr. Karen Wright,1085
+138,"redness, loss of smell, stiffness, dizziness",Ophthalmologist,3,72,Male,Hypertension,Dr. Karen Wright,1086
+188,"chest pain, blurred vision",Ophthalmologist,3,26,Male,Asthma,Dr. Karen Wright,1086
+259,"hearing loss, shortness of breath, cough, abdominal pain",Ophthalmologist,2,68,Female,Asthma,Dr. Karen Wright,1086
+354,"joint pain, abdominal pain, nausea",Ophthalmologist,2,74,Male,Arthritis,Dr. Karen Wright,1086
+622,"swelling, headache",Ophthalmologist,2,34,Female,Hypertension,Dr. Karen Wright,1086
+1014,vomiting,Ophthalmologist,3,25,Female,Diabetes,Dr. Karen Wright,1086
+281,"rash, back pain, chest pain",Orthopedic Surgeon,5,75,Male,Arthritis,Dr. Karen Wright,1087
+561,"loss of smell, vomiting",Orthopedic Surgeon,1,41,Female,Chronic Pain,Dr. Karen Wright,1087
+930,"back pain, chest pain",Orthopedic Surgeon,4,35,Female,Hypertension,Dr. Karen Wright,1087
+70,blurred vision,Pulmonologist,2,68,Female,Hypertension,Dr. Karen Wright,1088
+152,"hearing loss, rash",Pulmonologist,5,40,Female,Heart Disease,Dr. Karen Wright,1088
+352,"blurred vision, joint pain, nausea",Pulmonologist,3,71,Female,Asthma,Dr. Karen Wright,1088
+728,"loss of smell, swelling, rash, vomiting",Pulmonologist,4,63,Male,Chronic Pain,Dr. Karen Wright,1088
+166,"blurred vision, shortness of breath",Rheumatologist,3,56,Female,Obesity,Dr. Karen Wright,1089
+581,"headache, blurred vision, cough",Rheumatologist,5,37,Female,Allergies,Dr. Karen Wright,1089
+593,headache,Rheumatologist,1,62,Male,Eczema,Dr. Karen Wright,1089
+612,fatigue,Rheumatologist,2,80,Female,Allergies,Dr. Karen Wright,1089
+737,"swelling, fatigue",Rheumatologist,3,27,Female,Asthma,Dr. Karen Wright,1089
+846,"nausea, hearing loss, blurred vision",Rheumatologist,3,22,Male,Diabetes,Dr. Karen Wright,1089
+64,joint pain,Cardiologist,2,28,Male,Heart Disease,Dr. Kevin Thompson,1090
+67,"loss of taste, swelling, stiffness",Cardiologist,3,54,Male,Allergies,Dr. Kevin Thompson,1090
+117,"loss of taste, vomiting, blurred vision, headache",Cardiologist,4,45,Male,Eczema,Dr. Kevin Thompson,1090
+191,hearing loss,Cardiologist,2,78,Male,Arthritis,Dr. Kevin Thompson,1090
+212,"rash, stiffness",Cardiologist,1,18,Female,Chronic Pain,Dr. Kevin Thompson,1090
+366,"shortness of breath, joint pain, dizziness, nausea",Cardiologist,1,38,Male,Asthma,Dr. Kevin Thompson,1090
+751,joint pain,Cardiologist,2,36,Male,Asthma,Dr. Kevin Thompson,1090
+954,vomiting,Cardiologist,1,25,Female,None,Dr. Kevin Thompson,1090
+973,fever,Cardiologist,1,45,Male,Diabetes,Dr. Kevin Thompson,1090
+192,"headache, back pain, blurred vision, nausea",Cardiologist,4,20,Male,Chronic Pain,Dr. Kevin Thompson,1090
+194,"blurred vision, chest pain",Cardiologist,3,72,Female,Eczema,Dr. Kevin Thompson,1090
+427,"fatigue, redness, blurred vision, loss of smell",Cardiologist,2,36,Female,Hypertension,Dr. Kevin Thompson,1090
+568,"loss of taste, fever, cough",Cardiologist,1,63,Male,Allergies,Dr. Kevin Thompson,1090
+673,"chest pain, sore throat",Cardiologist,5,62,Female,Chronic Pain,Dr. Kevin Thompson,1090
+706,"joint pain, shortness of breath, headache, sore throat",Cardiologist,5,59,Male,Asthma,Dr. Kevin Thompson,1090
+730,loss of smell,Cardiologist,3,28,Male,Asthma,Dr. Kevin Thompson,1090
+399,dizziness,Dermatologist,4,76,Male,Asthma,Dr. Kevin Thompson,1091
+403,headache,Dermatologist,1,21,Male,None,Dr. Kevin Thompson,1091
+590,stiffness,Dermatologist,5,20,Female,Heart Disease,Dr. Kevin Thompson,1091
+745,"chest pain, loss of taste",Dermatologist,2,62,Male,Diabetes,Dr. Kevin Thompson,1091
+175,"back pain, fatigue, joint pain",Dermatologist,4,22,Female,Eczema,Dr. Kevin Thompson,1091
+1011,"fatigue, fever",Dermatologist,5,69,Male,Hypertension,Dr. Kevin Thompson,1091
+76,"rash, fatigue, back pain",ENT Specialist,2,80,Male,Eczema,Dr. Kevin Thompson,1092
+199,"sore throat, joint pain, shortness of breath",ENT Specialist,1,45,Male,Diabetes,Dr. Kevin Thompson,1092
+208,"sore throat, blurred vision, fever, stiffness",ENT Specialist,3,49,Male,None,Dr. Kevin Thompson,1092
+424,"sore throat, vomiting, redness, swelling",ENT Specialist,5,25,Male,Allergies,Dr. Kevin Thompson,1092
+609,"loss of taste, fatigue, stiffness",ENT Specialist,5,37,Female,Heart Disease,Dr. Kevin Thompson,1092
+676,"chest pain, shortness of breath",ENT Specialist,2,76,Female,Asthma,Dr. Kevin Thompson,1092
+712,"loss of taste, fatigue, hearing loss",ENT Specialist,1,53,Male,Asthma,Dr. Kevin Thompson,1092
+841,"swelling, sore throat, abdominal pain",ENT Specialist,1,64,Female,Arthritis,Dr. Kevin Thompson,1092
+1020,"stiffness, sore throat, loss of taste",ENT Specialist,3,55,Male,Allergies,Dr. Kevin Thompson,1092
+59,"abdominal pain, fever",ENT Specialist,1,38,Male,Heart Disease,Dr. Kevin Thompson,1092
+358,"vomiting, cough",ENT Specialist,2,69,Male,Chronic Pain,Dr. Kevin Thompson,1092
+384,"chest pain, blurred vision",ENT Specialist,3,71,Male,Chronic Pain,Dr. Kevin Thompson,1092
+553,"headache, hearing loss, loss of taste",ENT Specialist,3,74,Male,Diabetes,Dr. Kevin Thompson,1092
+762,"redness, swelling, dizziness, stiffness",ENT Specialist,4,68,Female,Heart Disease,Dr. Kevin Thompson,1092
+377,"hearing loss, back pain, dizziness, fever",Gastroenterologist,4,35,Female,Hypertension,Dr. Kevin Thompson,1093
+499,"chest pain, loss of taste",Gastroenterologist,5,58,Male,Arthritis,Dr. Kevin Thompson,1093
+611,"back pain, nausea, redness, loss of smell",Gastroenterologist,1,20,Female,Allergies,Dr. Kevin Thompson,1093
+731,"swelling, chest pain",Gastroenterologist,2,46,Female,Obesity,Dr. Kevin Thompson,1093
+771,"shortness of breath, dizziness, stiffness",Gastroenterologist,4,79,Female,Allergies,Dr. Kevin Thompson,1093
+794,abdominal pain,Gastroenterologist,3,51,Female,Allergies,Dr. Kevin Thompson,1093
+41,redness,Gastroenterologist,1,63,Female,Allergies,Dr. Kevin Thompson,1093
+132,"fatigue, hearing loss, loss of taste, shortness of breath",Gastroenterologist,2,30,Female,Heart Disease,Dr. Kevin Thompson,1093
+251,"stiffness, swelling, sore throat, loss of taste",Gastroenterologist,2,51,Male,None,Dr. Kevin Thompson,1093
+549,"headache, blurred vision, rash, loss of smell",Gastroenterologist,4,57,Male,Arthritis,Dr. Kevin Thompson,1093
+695,"shortness of breath, sore throat, hearing loss, swelling",Gastroenterologist,1,41,Female,Obesity,Dr. Kevin Thompson,1093
+886,"stiffness, blurred vision, abdominal pain, shortness of breath",Gastroenterologist,3,36,Male,None,Dr. Kevin Thompson,1093
+941,swelling,Gastroenterologist,4,73,Female,None,Dr. Kevin Thompson,1093
+980,"swelling, sore throat",Gastroenterologist,3,57,Female,Diabetes,Dr. Kevin Thompson,1093
+299,"hearing loss, shortness of breath, rash",General Physician,4,25,Male,Allergies,Dr. Kevin Thompson,1094
+367,"rash, joint pain, nausea, hearing loss",General Physician,5,57,Female,Asthma,Dr. Kevin Thompson,1094
+437,"redness, stiffness, loss of smell, headache",General Physician,5,75,Male,Eczema,Dr. Kevin Thompson,1094
+440,swelling,General Physician,4,47,Female,Chronic Pain,Dr. Kevin Thompson,1094
+501,"chest pain, back pain",General Physician,5,18,Female,Arthritis,Dr. Kevin Thompson,1094
+556,"fatigue, stiffness",General Physician,3,40,Female,Eczema,Dr. Kevin Thompson,1094
+641,nausea,General Physician,5,51,Male,Obesity,Dr. Kevin Thompson,1094
+680,"blurred vision, rash, loss of smell, sore throat",General Physician,3,48,Male,Hypertension,Dr. Kevin Thompson,1094
+835,stiffness,General Physician,1,67,Female,Obesity,Dr. Kevin Thompson,1094
+392,"joint pain, loss of smell",General Physician,3,28,Male,Allergies,Dr. Kevin Thompson,1094
+415,cough,General Physician,4,33,Female,Arthritis,Dr. Kevin Thompson,1094
+842,"loss of taste, joint pain",General Physician,2,72,Female,Hypertension,Dr. Kevin Thompson,1094
+875,"loss of taste, back pain",General Physician,5,54,Male,Hypertension,Dr. Kevin Thompson,1094
+926,hearing loss,General Physician,2,49,Male,Allergies,Dr. Kevin Thompson,1094
+477,"hearing loss, blurred vision",Neurologist,4,77,Female,Obesity,Dr. Kevin Thompson,1095
+531,"dizziness, cough, abdominal pain, rash",Neurologist,5,43,Female,Obesity,Dr. Kevin Thompson,1095
+701,chest pain,Neurologist,5,36,Male,Chronic Pain,Dr. Kevin Thompson,1095
+845,"vomiting, rash",Neurologist,4,70,Male,Allergies,Dr. Kevin Thompson,1095
+253,"rash, headache",Neurologist,5,55,Male,Chronic Pain,Dr. Kevin Thompson,1095
+538,"rash, headache",Neurologist,5,25,Female,None,Dr. Kevin Thompson,1095
+788,"joint pain, sore throat",Neurologist,5,69,Female,Eczema,Dr. Kevin Thompson,1095
+791,fatigue,Neurologist,3,79,Female,None,Dr. Kevin Thompson,1095
+1017,stiffness,Neurologist,4,45,Female,Heart Disease,Dr. Kevin Thompson,1095
+122,redness,Ophthalmologist,3,40,Female,Hypertension,Dr. Kevin Thompson,1096
+589,"swelling, headache",Ophthalmologist,1,58,Male,None,Dr. Kevin Thompson,1096
+688,fatigue,Ophthalmologist,2,27,Male,Heart Disease,Dr. Kevin Thompson,1096
+934,"fatigue, loss of smell, redness, cough",Ophthalmologist,2,36,Male,Asthma,Dr. Kevin Thompson,1096
+970,"blurred vision, rash, headache",Ophthalmologist,4,70,Male,Heart Disease,Dr. Kevin Thompson,1096
+971,"dizziness, loss of smell, joint pain, swelling",Ophthalmologist,1,42,Male,Diabetes,Dr. Kevin Thompson,1096
+90,"loss of taste, nausea",Ophthalmologist,4,61,Female,Hypertension,Dr. Kevin Thompson,1096
+263,"fatigue, joint pain, blurred vision",Ophthalmologist,2,39,Male,Hypertension,Dr. Kevin Thompson,1096
+276,cough,Ophthalmologist,5,45,Male,Chronic Pain,Dr. Kevin Thompson,1096
+520,"headache, redness",Ophthalmologist,4,24,Male,Diabetes,Dr. Kevin Thompson,1096
+768,"stiffness, redness, nausea",Ophthalmologist,3,31,Female,Hypertension,Dr. Kevin Thompson,1096
+779,"loss of taste, redness, sore throat, blurred vision",Ophthalmologist,1,77,Male,None,Dr. Kevin Thompson,1096
+108,"fatigue, blurred vision",Orthopedic Surgeon,2,70,Male,Diabetes,Dr. Kevin Thompson,1097
+572,"vomiting, abdominal pain",Orthopedic Surgeon,3,63,Male,Heart Disease,Dr. Kevin Thompson,1097
+22,"back pain, fever",Orthopedic Surgeon,3,74,Male,Obesity,Dr. Kevin Thompson,1097
+533,"stiffness, loss of smell, abdominal pain",Orthopedic Surgeon,5,51,Female,Eczema,Dr. Kevin Thompson,1097
+807,"joint pain, chest pain",Orthopedic Surgeon,3,21,Female,Heart Disease,Dr. Kevin Thompson,1097
+931,"fever, dizziness, loss of taste, abdominal pain",Orthopedic Surgeon,3,71,Male,Hypertension,Dr. Kevin Thompson,1097
+1018,"vomiting, swelling",Orthopedic Surgeon,1,33,Male,Obesity,Dr. Kevin Thompson,1097
+24,back pain,Pulmonologist,4,61,Male,Heart Disease,Dr. Kevin Thompson,1098
+344,"rash, hearing loss",Pulmonologist,3,78,Male,Diabetes,Dr. Kevin Thompson,1098
+365,"hearing loss, vomiting",Pulmonologist,1,76,Male,Diabetes,Dr. Kevin Thompson,1098
+696,fever,Pulmonologist,2,19,Female,Asthma,Dr. Kevin Thompson,1098
+839,loss of taste,Pulmonologist,1,39,Female,Heart Disease,Dr. Kevin Thompson,1098
+21,shortness of breath,Pulmonologist,1,22,Female,Arthritis,Dr. Kevin Thompson,1098
+82,abdominal pain,Pulmonologist,2,47,Female,Obesity,Dr. Kevin Thompson,1098
+332,"chest pain, hearing loss",Pulmonologist,3,47,Female,Obesity,Dr. Kevin Thompson,1098
+530,"hearing loss, fatigue, loss of smell",Pulmonologist,4,59,Male,Allergies,Dr. Kevin Thompson,1098
+619,"loss of smell, back pain",Pulmonologist,5,60,Male,Allergies,Dr. Kevin Thompson,1098
+220,"back pain, sore throat, shortness of breath, loss of taste",Rheumatologist,5,47,Female,Arthritis,Dr. Kevin Thompson,1099
+698,"vomiting, dizziness",Rheumatologist,2,73,Female,Obesity,Dr. Kevin Thompson,1099
+734,"loss of smell, back pain, swelling",Rheumatologist,3,68,Male,Asthma,Dr. Kevin Thompson,1099
+752,"loss of smell, shortness of breath",Rheumatologist,1,21,Male,Heart Disease,Dr. Kevin Thompson,1099
+822,"rash, swelling, loss of taste",Rheumatologist,4,66,Male,None,Dr. Kevin Thompson,1099
+853,blurred vision,Rheumatologist,2,51,Male,Diabetes,Dr. Kevin Thompson,1099
+206,"shortness of breath, blurred vision",Rheumatologist,2,30,Female,Chronic Pain,Dr. Kevin Thompson,1099
+371,"loss of taste, redness, stiffness",Rheumatologist,1,75,Female,Heart Disease,Dr. Kevin Thompson,1099
+373,"cough, redness",Rheumatologist,5,77,Male,Obesity,Dr. Kevin Thompson,1099
+517,"abdominal pain, joint pain, fever, swelling",Rheumatologist,5,46,Male,Obesity,Dr. Kevin Thompson,1099
+764,blurred vision,Rheumatologist,4,52,Male,Eczema,Dr. Kevin Thompson,1099
+121,hearing loss,Dermatologist,5,39,Female,Hypertension,Dr. Laura Patel,1100
+302,"fever, chest pain",Dermatologist,4,64,Female,Diabetes,Dr. Laura Patel,1100
+884,rash,Dermatologist,4,28,Male,Allergies,Dr. Laura Patel,1100
+406,"stiffness, redness, rash",ENT Specialist,3,41,Male,None,Dr. Laura Patel,1101
+487,"loss of smell, loss of taste",ENT Specialist,1,72,Male,Obesity,Dr. Laura Patel,1101
+888,"fever, abdominal pain",ENT Specialist,3,52,Female,Obesity,Dr. Laura Patel,1101
+115,loss of taste,Gastroenterologist,1,63,Male,Allergies,Dr. Laura Patel,1102
+264,redness,Gastroenterologist,2,61,Male,Chronic Pain,Dr. Laura Patel,1102
+442,back pain,Gastroenterologist,3,75,Female,Hypertension,Dr. Laura Patel,1102
+526,"chest pain, loss of taste",Gastroenterologist,5,46,Female,Hypertension,Dr. Laura Patel,1102
+560,fatigue,Gastroenterologist,2,76,Male,Chronic Pain,Dr. Laura Patel,1102
+844,"loss of smell, headache",Gastroenterologist,1,70,Female,Chronic Pain,Dr. Laura Patel,1102
+864,"redness, blurred vision",Gastroenterologist,2,39,Male,Obesity,Dr. Laura Patel,1102
+928,hearing loss,Gastroenterologist,5,61,Female,Eczema,Dr. Laura Patel,1102
+116,"back pain, vomiting, rash, hearing loss",General Physician,5,55,Female,Arthritis,Dr. Laura Patel,1103
+374,"swelling, joint pain",General Physician,3,20,Male,Heart Disease,Dr. Laura Patel,1103
+387,"headache, nausea, hearing loss",General Physician,2,32,Male,Diabetes,Dr. Laura Patel,1103
+815,hearing loss,General Physician,2,30,Male,Obesity,Dr. Laura Patel,1103
+97,shortness of breath,Neurologist,5,57,Male,Arthritis,Dr. Laura Patel,1104
+600,"nausea, hearing loss, headache, swelling",Neurologist,5,46,Male,Allergies,Dr. Laura Patel,1104
+640,sore throat,Neurologist,4,41,Female,Eczema,Dr. Laura Patel,1104
+720,"fatigue, rash, redness",Neurologist,3,78,Male,Hypertension,Dr. Laura Patel,1104
+72,cough,Ophthalmologist,4,51,Female,Allergies,Dr. Laura Patel,1105
+395,abdominal pain,Ophthalmologist,5,79,Male,None,Dr. Laura Patel,1105
+511,"cough, fatigue",Ophthalmologist,1,80,Male,Hypertension,Dr. Laura Patel,1105
+646,"redness, back pain, cough",Ophthalmologist,5,41,Female,Asthma,Dr. Laura Patel,1105
+898,"fatigue, back pain, swelling",Ophthalmologist,2,79,Female,None,Dr. Laura Patel,1105
+81,"back pain, headache",Orthopedic Surgeon,3,73,Female,Eczema,Dr. Laura Patel,1106
+396,"cough, loss of smell, abdominal pain",Orthopedic Surgeon,4,22,Female,Diabetes,Dr. Laura Patel,1106
+508,"nausea, shortness of breath, stiffness, vomiting",Orthopedic Surgeon,4,72,Female,Diabetes,Dr. Laura Patel,1106
+588,blurred vision,Orthopedic Surgeon,2,37,Male,Asthma,Dr. Laura Patel,1106
+636,"joint pain, sore throat, dizziness",Orthopedic Surgeon,3,20,Female,Heart Disease,Dr. Laura Patel,1106
+810,redness,Orthopedic Surgeon,2,32,Female,Allergies,Dr. Laura Patel,1106
+816,"blurred vision, stiffness",Orthopedic Surgeon,2,58,Female,Asthma,Dr. Laura Patel,1106
+863,"loss of taste, nausea, chest pain",Orthopedic Surgeon,1,78,Female,Heart Disease,Dr. Laura Patel,1106
+562,"shortness of breath, blurred vision, swelling, rash",Pulmonologist,4,79,Female,Arthritis,Dr. Laura Patel,1107
+583,"loss of smell, chest pain, nausea",Pulmonologist,3,37,Female,Eczema,Dr. Laura Patel,1107
+727,"loss of smell, shortness of breath, cough",Pulmonologist,2,76,Female,Arthritis,Dr. Laura Patel,1107
+865,"loss of smell, fever",Pulmonologist,1,40,Female,Hypertension,Dr. Laura Patel,1107
+644,"hearing loss, abdominal pain",Rheumatologist,2,80,Male,Arthritis,Dr. Laura Patel,1108
+833,"loss of smell, joint pain",Rheumatologist,1,50,Male,Allergies,Dr. Laura Patel,1108
+180,chest pain,Cardiologist,5,23,Female,Asthma,Dr. Mark Anderson,1109
+372,stiffness,Cardiologist,1,33,Female,Chronic Pain,Dr. Mark Anderson,1109
+555,"cough, swelling",Cardiologist,2,41,Male,Heart Disease,Dr. Mark Anderson,1109
+189,"abdominal pain, dizziness",Dermatologist,2,58,Female,None,Dr. Mark Anderson,1110
+576,rash,Dermatologist,3,38,Male,Asthma,Dr. Mark Anderson,1110
+876,"vomiting, hearing loss, stiffness",Dermatologist,5,28,Male,Diabetes,Dr. Mark Anderson,1110
+927,"joint pain, blurred vision",Dermatologist,1,41,Male,Heart Disease,Dr. Mark Anderson,1110
+184,"cough, nausea, joint pain",ENT Specialist,4,30,Male,Heart Disease,Dr. Mark Anderson,1111
+356,"stiffness, fever",ENT Specialist,4,40,Female,Allergies,Dr. Mark Anderson,1111
+471,"redness, sore throat, hearing loss",ENT Specialist,5,65,Male,Arthritis,Dr. Mark Anderson,1111
+595,"back pain, dizziness, shortness of breath",ENT Specialist,5,34,Female,Obesity,Dr. Mark Anderson,1111
+936,"loss of smell, hearing loss, rash",ENT Specialist,2,38,Male,Chronic Pain,Dr. Mark Anderson,1111
+34,"loss of taste, sore throat, redness, nausea",Gastroenterologist,3,65,Female,Hypertension,Dr. Mark Anderson,1112
+557,"fever, hearing loss",Gastroenterologist,2,56,Female,None,Dr. Mark Anderson,1112
+717,"cough, vomiting",Gastroenterologist,2,77,Female,None,Dr. Mark Anderson,1112
+828,blurred vision,Gastroenterologist,5,70,Male,Diabetes,Dr. Mark Anderson,1112
+975,"dizziness, joint pain, stiffness",Gastroenterologist,4,55,Female,Asthma,Dr. Mark Anderson,1112
+986,"back pain, loss of smell, chest pain",Gastroenterologist,3,75,Female,Allergies,Dr. Mark Anderson,1112
+98,"stiffness, cough, hearing loss, fatigue",General Physician,3,28,Female,Asthma,Dr. Mark Anderson,1113
+111,"loss of smell, sore throat, abdominal pain, rash",General Physician,5,55,Male,Allergies,Dr. Mark Anderson,1113
+120,"headache, fever, stiffness",General Physician,1,72,Female,Eczema,Dr. Mark Anderson,1113
+300,"loss of taste, back pain, fever, stiffness",General Physician,1,41,Female,Arthritis,Dr. Mark Anderson,1113
+379,swelling,General Physician,2,21,Male,Asthma,Dr. Mark Anderson,1113
+924,vomiting,General Physician,4,36,Male,Allergies,Dr. Mark Anderson,1113
+241,"loss of taste, chest pain, headache, fatigue",Neurologist,3,29,Male,Arthritis,Dr. Mark Anderson,1114
+510,"fever, cough, shortness of breath, rash",Neurologist,1,75,Male,Chronic Pain,Dr. Mark Anderson,1114
+534,"stiffness, redness, loss of smell, hearing loss",Neurologist,3,59,Male,None,Dr. Mark Anderson,1114
+570,"nausea, hearing loss",Neurologist,3,41,Female,Eczema,Dr. Mark Anderson,1114
+744,"loss of taste, headache, back pain",Neurologist,3,34,Female,None,Dr. Mark Anderson,1114
+782,"back pain, sore throat, abdominal pain, fatigue",Neurologist,3,23,Male,Asthma,Dr. Mark Anderson,1114
+207,"sore throat, nausea, blurred vision",Ophthalmologist,1,60,Female,Heart Disease,Dr. Mark Anderson,1115
+209,loss of taste,Ophthalmologist,4,28,Female,Diabetes,Dr. Mark Anderson,1115
+430,"hearing loss, sore throat, shortness of breath, joint pain",Ophthalmologist,3,41,Female,Diabetes,Dr. Mark Anderson,1115
+633,"shortness of breath, loss of taste, sore throat",Ophthalmologist,5,73,Female,Arthritis,Dr. Mark Anderson,1115
+777,"headache, joint pain",Ophthalmologist,3,49,Male,Asthma,Dr. Mark Anderson,1115
+966,back pain,Ophthalmologist,4,63,Male,Heart Disease,Dr. Mark Anderson,1115
+53,"cough, sore throat, redness",Orthopedic Surgeon,2,65,Female,Chronic Pain,Dr. Mark Anderson,1116
+204,"dizziness, loss of smell, rash",Orthopedic Surgeon,5,21,Female,Asthma,Dr. Mark Anderson,1116
+143,"back pain, loss of smell, cough",Pulmonologist,4,71,Female,Hypertension,Dr. Mark Anderson,1117
+269,nausea,Pulmonologist,4,56,Male,Hypertension,Dr. Mark Anderson,1117
+428,"nausea, sore throat, joint pain, cough",Pulmonologist,2,46,Male,Chronic Pain,Dr. Mark Anderson,1117
+780,"redness, abdominal pain, nausea, loss of taste",Pulmonologist,2,56,Female,Diabetes,Dr. Mark Anderson,1117
+224,"headache, blurred vision, fatigue, sore throat",Rheumatologist,4,51,Female,Allergies,Dr. Mark Anderson,1118
+298,"rash, nausea, back pain, joint pain",Rheumatologist,5,48,Male,Obesity,Dr. Mark Anderson,1118
+665,"fever, fatigue, swelling",Rheumatologist,2,46,Female,Hypertension,Dr. Mark Anderson,1118
+125,"rash, loss of smell, swelling, back pain",Cardiologist,3,65,Female,Arthritis,Dr. Michael Brown,1119
+153,"back pain, fever, loss of taste, loss of smell",Cardiologist,1,41,Male,Heart Disease,Dr. Michael Brown,1119
+272,"cough, vomiting, back pain",Cardiologist,1,78,Male,Eczema,Dr. Michael Brown,1119
+307,"sore throat, loss of smell, redness",Cardiologist,3,67,Male,Diabetes,Dr. Michael Brown,1119
+808,"blurred vision, sore throat, dizziness",Cardiologist,3,21,Female,Eczema,Dr. Michael Brown,1119
+200,"joint pain, nausea, loss of taste, abdominal pain",Cardiologist,3,60,Male,Chronic Pain,Dr. Michael Brown,1119
+271,"redness, cough, loss of smell, back pain",Cardiologist,4,25,Male,None,Dr. Michael Brown,1119
+625,"chest pain, headache, hearing loss",Cardiologist,3,65,Female,Heart Disease,Dr. Michael Brown,1119
+988,"blurred vision, joint pain, fatigue",Cardiologist,5,49,Female,None,Dr. Michael Brown,1119
+456,"fever, dizziness",Dermatologist,5,36,Male,None,Dr. Michael Brown,1120
+544,"loss of smell, hearing loss, shortness of breath",Dermatologist,1,28,Female,Allergies,Dr. Michael Brown,1120
+666,"stiffness, joint pain, dizziness",Dermatologist,2,34,Male,Asthma,Dr. Michael Brown,1120
+686,vomiting,Dermatologist,1,20,Female,Heart Disease,Dr. Michael Brown,1120
+867,"hearing loss, blurred vision, loss of taste, swelling",Dermatologist,1,39,Male,Hypertension,Dr. Michael Brown,1120
+957,"stiffness, joint pain, cough",Dermatologist,3,68,Female,Obesity,Dr. Michael Brown,1120
+309,"loss of taste, fatigue",Dermatologist,5,32,Female,Obesity,Dr. Michael Brown,1120
+514,"fever, stiffness, blurred vision, loss of taste",Dermatologist,1,49,Male,Diabetes,Dr. Michael Brown,1120
+775,"cough, blurred vision, rash",Dermatologist,2,63,Male,None,Dr. Michael Brown,1120
+776,"rash, headache",Dermatologist,1,41,Female,Hypertension,Dr. Michael Brown,1120
+362,"loss of smell, rash",ENT Specialist,1,62,Female,None,Dr. Michael Brown,1121
+532,"stiffness, hearing loss",ENT Specialist,4,76,Male,Diabetes,Dr. Michael Brown,1121
+1004,"abdominal pain, rash",ENT Specialist,1,31,Female,Obesity,Dr. Michael Brown,1121
+331,"blurred vision, swelling, stiffness, abdominal pain",ENT Specialist,2,73,Male,Chronic Pain,Dr. Michael Brown,1121
+156,"shortness of breath, headache",Gastroenterologist,5,45,Male,Arthritis,Dr. Michael Brown,1122
+410,"fever, hearing loss, loss of taste",Gastroenterologist,2,59,Female,None,Dr. Michael Brown,1122
+630,vomiting,Gastroenterologist,2,32,Female,Arthritis,Dr. Michael Brown,1122
+914,"swelling, fatigue, nausea, back pain",Gastroenterologist,5,48,Male,Hypertension,Dr. Michael Brown,1122
+218,"hearing loss, shortness of breath",Gastroenterologist,3,33,Male,Chronic Pain,Dr. Michael Brown,1122
+318,"headache, nausea",Gastroenterologist,3,39,Male,Arthritis,Dr. Michael Brown,1122
+503,"chest pain, fever, back pain",Gastroenterologist,1,62,Female,Obesity,Dr. Michael Brown,1122
+838,"joint pain, dizziness, abdominal pain, loss of smell",Gastroenterologist,2,44,Male,Heart Disease,Dr. Michael Brown,1122
+856,dizziness,Gastroenterologist,4,29,Male,Diabetes,Dr. Michael Brown,1122
+46,"hearing loss, loss of taste",General Physician,4,39,Male,Chronic Pain,Dr. Michael Brown,1123
+308,fatigue,General Physician,5,75,Male,Hypertension,Dr. Michael Brown,1123
+474,joint pain,General Physician,1,23,Female,Eczema,Dr. Michael Brown,1123
+515,"nausea, hearing loss",General Physician,2,64,Male,Arthritis,Dr. Michael Brown,1123
+925,back pain,General Physician,2,71,Female,Allergies,Dr. Michael Brown,1123
+938,"blurred vision, rash, chest pain",General Physician,5,55,Male,Asthma,Dr. Michael Brown,1123
+953,"shortness of breath, back pain",General Physician,3,51,Male,Hypertension,Dr. Michael Brown,1123
+229,"redness, shortness of breath",General Physician,3,60,Female,Allergies,Dr. Michael Brown,1123
+305,"dizziness, fatigue",General Physician,5,23,Male,Allergies,Dr. Michael Brown,1123
+297,"chest pain, headache",Neurologist,3,63,Female,None,Dr. Michael Brown,1124
+401,"rash, hearing loss",Neurologist,3,73,Male,Heart Disease,Dr. Michael Brown,1124
+621,shortness of breath,Neurologist,1,23,Male,Arthritis,Dr. Michael Brown,1124
+293,fatigue,Neurologist,4,29,Female,Eczema,Dr. Michael Brown,1124
+461,"joint pain, loss of smell, nausea, hearing loss",Neurologist,2,23,Female,Heart Disease,Dr. Michael Brown,1124
+729,"nausea, back pain, headache, dizziness",Neurologist,1,51,Male,Heart Disease,Dr. Michael Brown,1124
+932,"headache, joint pain, nausea",Neurologist,4,35,Male,Asthma,Dr. Michael Brown,1124
+91,"swelling, fever, nausea",Ophthalmologist,5,77,Male,Arthritis,Dr. Michael Brown,1125
+161,sore throat,Ophthalmologist,2,65,Male,Asthma,Dr. Michael Brown,1125
+245,"fatigue, rash",Ophthalmologist,5,39,Female,Asthma,Dr. Michael Brown,1125
+247,"headache, loss of smell, nausea, redness",Ophthalmologist,1,44,Female,Arthritis,Dr. Michael Brown,1125
+258,"abdominal pain, stiffness, fatigue, joint pain",Ophthalmologist,4,70,Female,Chronic Pain,Dr. Michael Brown,1125
+408,"swelling, chest pain, blurred vision",Ophthalmologist,5,71,Male,Diabetes,Dr. Michael Brown,1125
+648,"chest pain, headache, rash, cough",Ophthalmologist,3,46,Male,Heart Disease,Dr. Michael Brown,1125
+757,"fever, headache, nausea, cough",Ophthalmologist,4,69,Female,Obesity,Dr. Michael Brown,1125
+907,"fatigue, rash, loss of taste",Ophthalmologist,1,27,Female,Allergies,Dr. Michael Brown,1125
+242,"hearing loss, sore throat",Ophthalmologist,5,70,Female,Heart Disease,Dr. Michael Brown,1125
+314,loss of taste,Orthopedic Surgeon,1,51,Female,Asthma,Dr. Michael Brown,1126
+795,headache,Orthopedic Surgeon,5,43,Female,Allergies,Dr. Michael Brown,1126
+991,"loss of taste, back pain, swelling, rash",Orthopedic Surgeon,4,60,Male,Arthritis,Dr. Michael Brown,1126
+148,fever,Orthopedic Surgeon,1,73,Female,None,Dr. Michael Brown,1126
+350,"loss of smell, redness, nausea",Orthopedic Surgeon,5,67,Male,Obesity,Dr. Michael Brown,1126
+755,"loss of smell, chest pain, vomiting, fatigue",Orthopedic Surgeon,5,80,Female,Eczema,Dr. Michael Brown,1126
+995,dizziness,Orthopedic Surgeon,1,40,Male,Asthma,Dr. Michael Brown,1126
+48,"sore throat, loss of taste, loss of smell",Pulmonologist,4,38,Male,Allergies,Dr. Michael Brown,1127
+274,"shortness of breath, fatigue",Pulmonologist,3,76,Male,Hypertension,Dr. Michael Brown,1127
+303,"rash, swelling, loss of smell, stiffness",Pulmonologist,2,62,Female,Asthma,Dr. Michael Brown,1127
+435,"stiffness, abdominal pain, vomiting",Pulmonologist,2,56,Male,Obesity,Dr. Michael Brown,1127
+664,"loss of smell, cough, blurred vision, vomiting",Pulmonologist,3,39,Male,Asthma,Dr. Michael Brown,1127
+672,"sore throat, joint pain, fatigue",Pulmonologist,3,47,Female,Obesity,Dr. Michael Brown,1127
+724,"loss of smell, hearing loss, blurred vision",Pulmonologist,4,73,Female,Arthritis,Dr. Michael Brown,1127
+104,"abdominal pain, loss of smell",Pulmonologist,5,36,Male,Diabetes,Dr. Michael Brown,1127
+254,"blurred vision, nausea, back pain, joint pain",Pulmonologist,2,65,Female,Allergies,Dr. Michael Brown,1127
+294,"blurred vision, abdominal pain, headache, chest pain",Pulmonologist,3,27,Male,Chronic Pain,Dr. Michael Brown,1127
+498,"vomiting, loss of taste, shortness of breath, joint pain",Pulmonologist,4,51,Female,Obesity,Dr. Michael Brown,1127
+540,"redness, vomiting, abdominal pain",Pulmonologist,5,73,Male,Heart Disease,Dr. Michael Brown,1127
+577,"abdominal pain, sore throat",Pulmonologist,1,56,Male,Eczema,Dr. Michael Brown,1127
+47,blurred vision,Rheumatologist,1,31,Male,Diabetes,Dr. Michael Brown,1128
+174,"back pain, redness, rash",Rheumatologist,3,63,Male,Arthritis,Dr. Michael Brown,1128
+360,"rash, nausea, swelling, joint pain",Rheumatologist,3,34,Female,Asthma,Dr. Michael Brown,1128
+818,"fever, hearing loss, dizziness, sore throat",Rheumatologist,4,74,Female,Obesity,Dr. Michael Brown,1128
+963,"redness, cough, chest pain, shortness of breath",Rheumatologist,1,52,Male,Diabetes,Dr. Michael Brown,1128
+990,"swelling, loss of taste",Rheumatologist,2,78,Female,Obesity,Dr. Michael Brown,1128
+1009,"rash, shortness of breath",Rheumatologist,3,65,Female,Heart Disease,Dr. Michael Brown,1128
+149,"nausea, headache, swelling, redness",Rheumatologist,3,47,Female,Heart Disease,Dr. Michael Brown,1128
+321,back pain,Rheumatologist,4,67,Male,Asthma,Dr. Michael Brown,1128
+725,"loss of taste, swelling",Rheumatologist,5,75,Female,Chronic Pain,Dr. Michael Brown,1128
+994,"redness, back pain, sore throat",Rheumatologist,5,74,Male,Allergies,Dr. Michael Brown,1128
+73,"shortness of breath, fever, headache",Cardiologist,4,25,Female,Chronic Pain,Dr. Natalie Green,1129
+265,rash,Cardiologist,5,41,Female,Allergies,Dr. Natalie Green,1129
+315,shortness of breath,Cardiologist,4,47,Female,Eczema,Dr. Natalie Green,1129
+388,"shortness of breath, fever, joint pain",Cardiologist,2,73,Male,Diabetes,Dr. Natalie Green,1129
+422,"vomiting, swelling",Cardiologist,5,34,Female,Obesity,Dr. Natalie Green,1129
+453,"loss of taste, dizziness, swelling, joint pain",Cardiologist,3,78,Female,None,Dr. Natalie Green,1129
+765,redness,Cardiologist,2,25,Male,Arthritis,Dr. Natalie Green,1129
+1000,fever,Cardiologist,4,19,Female,Chronic Pain,Dr. Natalie Green,1129
+222,sore throat,Dermatologist,3,63,Male,Diabetes,Dr. Natalie Green,1130
+311,rash,Dermatologist,2,60,Female,Hypertension,Dr. Natalie Green,1130
+426,nausea,Dermatologist,4,24,Male,Arthritis,Dr. Natalie Green,1130
+429,redness,Dermatologist,3,56,Male,Hypertension,Dr. Natalie Green,1130
+654,"rash, shortness of breath, cough",Dermatologist,1,50,Male,None,Dr. Natalie Green,1130
+84,"vomiting, chest pain, headache",ENT Specialist,2,24,Female,Arthritis,Dr. Natalie Green,1131
+176,headache,ENT Specialist,4,27,Female,Chronic Pain,Dr. Natalie Green,1131
+291,"fatigue, blurred vision, swelling, dizziness",ENT Specialist,3,33,Female,None,Dr. Natalie Green,1131
+495,"abdominal pain, blurred vision, loss of smell",ENT Specialist,5,39,Male,Arthritis,Dr. Natalie Green,1131
+613,"shortness of breath, rash, back pain",ENT Specialist,3,80,Male,Arthritis,Dr. Natalie Green,1131
+826,"abdominal pain, redness",ENT Specialist,4,20,Male,Hypertension,Dr. Natalie Green,1131
+937,swelling,ENT Specialist,5,38,Female,Eczema,Dr. Natalie Green,1131
+397,"loss of smell, joint pain, loss of taste",Gastroenterologist,3,74,Female,None,Dr. Natalie Green,1132
+438,sore throat,Gastroenterologist,4,30,Male,Eczema,Dr. Natalie Green,1132
+692,"shortness of breath, blurred vision",Gastroenterologist,4,49,Male,Chronic Pain,Dr. Natalie Green,1132
+139,"chest pain, back pain",General Physician,4,55,Female,Chronic Pain,Dr. Natalie Green,1133
+378,"cough, loss of taste",General Physician,4,32,Female,Heart Disease,Dr. Natalie Green,1133
+541,"blurred vision, rash, hearing loss",General Physician,4,65,Female,Eczema,Dr. Natalie Green,1133
+599,"sore throat, hearing loss, vomiting, fever",General Physician,3,50,Female,Allergies,Dr. Natalie Green,1133
+605,"chest pain, fever",General Physician,3,80,Female,Allergies,Dr. Natalie Green,1133
+800,fatigue,General Physician,3,31,Female,Asthma,Dr. Natalie Green,1133
+903,"cough, loss of smell, redness, shortness of breath",General Physician,3,79,Female,Allergies,Dr. Natalie Green,1133
+960,shortness of breath,General Physician,5,78,Female,Obesity,Dr. Natalie Green,1133
+982,headache,General Physician,5,21,Female,None,Dr. Natalie Green,1133
+158,"cough, nausea, hearing loss",Neurologist,1,26,Male,Diabetes,Dr. Natalie Green,1134
+322,"fever, swelling, cough",Neurologist,2,36,Male,Allergies,Dr. Natalie Green,1134
+333,"swelling, redness",Neurologist,5,69,Female,Allergies,Dr. Natalie Green,1134
+832,"fever, dizziness, rash",Neurologist,2,44,Female,Allergies,Dr. Natalie Green,1134
+182,"dizziness, loss of smell",Ophthalmologist,2,37,Male,Asthma,Dr. Natalie Green,1135
+234,"rash, shortness of breath",Ophthalmologist,3,57,Male,Diabetes,Dr. Natalie Green,1135
+268,"redness, sore throat, hearing loss, chest pain",Ophthalmologist,3,40,Male,Diabetes,Dr. Natalie Green,1135
+880,"stiffness, headache",Ophthalmologist,3,78,Male,Chronic Pain,Dr. Natalie Green,1135
+103,swelling,Orthopedic Surgeon,2,31,Female,Arthritis,Dr. Natalie Green,1136
+170,"shortness of breath, back pain",Orthopedic Surgeon,4,56,Female,Eczema,Dr. Natalie Green,1136
+232,loss of taste,Orthopedic Surgeon,3,53,Male,Eczema,Dr. Natalie Green,1136
+288,"nausea, cough",Orthopedic Surgeon,1,62,Female,Asthma,Dr. Natalie Green,1136
+603,"blurred vision, loss of smell, vomiting",Orthopedic Surgeon,2,33,Female,Arthritis,Dr. Natalie Green,1136
+709,rash,Orthopedic Surgeon,5,78,Male,Heart Disease,Dr. Natalie Green,1136
+852,"joint pain, stiffness, redness",Orthopedic Surgeon,4,50,Female,Heart Disease,Dr. Natalie Green,1136
+304,"shortness of breath, rash",Pulmonologist,1,75,Male,Obesity,Dr. Natalie Green,1137
+324,"back pain, shortness of breath",Pulmonologist,2,27,Male,Chronic Pain,Dr. Natalie Green,1137
+425,"back pain, rash",Pulmonologist,3,63,Female,Eczema,Dr. Natalie Green,1137
+443,"loss of taste, abdominal pain, shortness of breath, fever",Pulmonologist,3,75,Male,Asthma,Dr. Natalie Green,1137
+460,"joint pain, dizziness, hearing loss, fever",Pulmonologist,3,68,Male,Asthma,Dr. Natalie Green,1137
+49,"cough, rash",Rheumatologist,4,56,Female,Obesity,Dr. Natalie Green,1138
+159,"back pain, joint pain, redness",Rheumatologist,5,37,Female,None,Dr. Natalie Green,1138
+169,stiffness,Rheumatologist,3,32,Male,Arthritis,Dr. Natalie Green,1138
+906,"hearing loss, rash",Rheumatologist,1,30,Female,Diabetes,Dr. Natalie Green,1138
+998,"hearing loss, cough, rash, nausea",Rheumatologist,3,69,Male,Eczema,Dr. Natalie Green,1138
+71,"sore throat, blurred vision",Cardiologist,4,67,Female,Arthritis,Dr. Susan Taylor,1139
+114,"blurred vision, nausea, dizziness, vomiting",Cardiologist,5,64,Female,Eczema,Dr. Susan Taylor,1139
+238,"back pain, stiffness, vomiting, shortness of breath",Cardiologist,4,74,Female,Obesity,Dr. Susan Taylor,1139
+364,"sore throat, abdominal pain, joint pain, blurred vision",Cardiologist,4,50,Female,Asthma,Dr. Susan Taylor,1139
+368,"rash, fatigue, fever",Cardiologist,5,76,Male,Arthritis,Dr. Susan Taylor,1139
+389,"swelling, sore throat, headache",Cardiologist,5,32,Male,Hypertension,Dr. Susan Taylor,1139
+685,"blurred vision, chest pain, abdominal pain, dizziness",Cardiologist,1,28,Female,None,Dr. Susan Taylor,1139
+699,"stiffness, joint pain, hearing loss, loss of taste",Cardiologist,2,57,Male,Asthma,Dr. Susan Taylor,1139
+831,vomiting,Cardiologist,1,39,Male,Allergies,Dr. Susan Taylor,1139
+211,"dizziness, fatigue",Cardiologist,1,29,Female,Arthritis,Dr. Susan Taylor,1139
+458,"abdominal pain, swelling, shortness of breath",Cardiologist,2,56,Male,Asthma,Dr. Susan Taylor,1139
+476,"dizziness, fatigue",Cardiologist,1,29,Male,Allergies,Dr. Susan Taylor,1139
+741,"rash, abdominal pain, back pain",Cardiologist,1,67,Male,Chronic Pain,Dr. Susan Taylor,1139
+811,"fever, headache, nausea, hearing loss",Cardiologist,1,59,Male,None,Dr. Susan Taylor,1139
+894,"joint pain, vomiting, abdominal pain",Cardiologist,3,36,Male,None,Dr. Susan Taylor,1139
+978,blurred vision,Cardiologist,3,60,Female,None,Dr. Susan Taylor,1139
+181,vomiting,Cardiologist,2,58,Male,Asthma,Dr. Susan Taylor,1139
+404,"joint pain, abdominal pain, cough, sore throat",Cardiologist,2,40,Female,None,Dr. Susan Taylor,1139
+418,"cough, blurred vision, shortness of breath",Cardiologist,1,35,Female,Eczema,Dr. Susan Taylor,1139
+578,"fatigue, blurred vision, dizziness, hearing loss",Cardiologist,2,29,Female,Asthma,Dr. Susan Taylor,1139
+39,"stiffness, loss of smell, cough",Cardiologist,2,76,Male,Hypertension,Dr. Susan Taylor,1139
+135,cough,Cardiologist,1,73,Female,None,Dr. Susan Taylor,1139
+198,"hearing loss, chest pain",Cardiologist,3,77,Male,Chronic Pain,Dr. Susan Taylor,1139
+454,"fever, back pain, nausea",Cardiologist,4,52,Male,Eczema,Dr. Susan Taylor,1139
+571,"abdominal pain, headache, cough, sore throat",Cardiologist,1,36,Male,Obesity,Dr. Susan Taylor,1139
+786,"headache, redness, chest pain, joint pain",Cardiologist,4,80,Female,Diabetes,Dr. Susan Taylor,1139
+221,"blurred vision, loss of taste",Dermatologist,3,41,Male,Allergies,Dr. Susan Taylor,1140
+28,"dizziness, nausea, headache",Dermatologist,3,43,Male,Diabetes,Dr. Susan Taylor,1140
+656,"swelling, fatigue",Dermatologist,2,51,Male,Diabetes,Dr. Susan Taylor,1140
+862,"redness, hearing loss, headache, loss of taste",Dermatologist,1,65,Male,None,Dr. Susan Taylor,1140
+163,"cough, abdominal pain, dizziness",Dermatologist,4,33,Female,Hypertension,Dr. Susan Taylor,1140
+504,"fever, fatigue, dizziness",Dermatologist,1,49,Female,Arthritis,Dr. Susan Taylor,1140
+548,sore throat,Dermatologist,1,21,Male,Chronic Pain,Dr. Susan Taylor,1140
+624,"chest pain, shortness of breath, cough",Dermatologist,4,80,Female,Arthritis,Dr. Susan Taylor,1140
+760,"fever, stiffness, abdominal pain",Dermatologist,4,32,Female,Heart Disease,Dr. Susan Taylor,1140
+940,"dizziness, vomiting, back pain",Dermatologist,2,52,Male,Arthritis,Dr. Susan Taylor,1140
+25,"fatigue, loss of smell",Dermatologist,1,69,Male,Arthritis,Dr. Susan Taylor,1140
+57,"dizziness, rash, headache, stiffness",Dermatologist,2,23,Female,Allergies,Dr. Susan Taylor,1140
+58,"vomiting, sore throat, dizziness, stiffness",Dermatologist,5,38,Male,Chronic Pain,Dr. Susan Taylor,1140
+61,"sore throat, dizziness",Dermatologist,3,42,Male,Heart Disease,Dr. Susan Taylor,1140
+277,"chest pain, hearing loss",Dermatologist,3,28,Male,Asthma,Dr. Susan Taylor,1140
+280,hearing loss,Dermatologist,1,41,Female,Hypertension,Dr. Susan Taylor,1140
+289,nausea,Dermatologist,1,29,Male,Arthritis,Dr. Susan Taylor,1140
+434,"sore throat, abdominal pain",Dermatologist,5,57,Male,Allergies,Dr. Susan Taylor,1140
+567,sore throat,Dermatologist,4,49,Male,Hypertension,Dr. Susan Taylor,1140
+821,"fever, rash, sore throat, nausea",Dermatologist,1,54,Female,Arthritis,Dr. Susan Taylor,1140
+62,"swelling, loss of smell, redness",ENT Specialist,4,27,Female,Allergies,Dr. Susan Taylor,1141
+228,"back pain, redness",ENT Specialist,2,52,Male,Asthma,Dr. Susan Taylor,1141
+473,"blurred vision, loss of smell, stiffness",ENT Specialist,5,41,Female,None,Dr. Susan Taylor,1141
+502,stiffness,ENT Specialist,5,80,Female,Allergies,Dr. Susan Taylor,1141
+140,"headache, back pain",ENT Specialist,4,22,Female,Diabetes,Dr. Susan Taylor,1141
+201,"swelling, blurred vision",ENT Specialist,1,19,Male,Hypertension,Dr. Susan Taylor,1141
+591,nausea,ENT Specialist,5,72,Male,None,Dr. Susan Taylor,1141
+763,"blurred vision, hearing loss, cough",ENT Specialist,2,55,Female,Obesity,Dr. Susan Taylor,1141
+976,"stiffness, blurred vision, back pain",ENT Specialist,2,18,Female,Diabetes,Dr. Susan Taylor,1141
+141,"hearing loss, abdominal pain, redness",ENT Specialist,3,77,Female,Obesity,Dr. Susan Taylor,1141
+250,shortness of breath,ENT Specialist,2,43,Female,Obesity,Dr. Susan Taylor,1141
+496,"dizziness, rash, vomiting",ENT Specialist,5,25,Female,Arthritis,Dr. Susan Taylor,1141
+785,"chest pain, swelling, fatigue",ENT Specialist,2,50,Female,Hypertension,Dr. Susan Taylor,1141
+92,"rash, back pain, vomiting",ENT Specialist,3,37,Male,Hypertension,Dr. Susan Taylor,1141
+330,"dizziness, cough, abdominal pain",ENT Specialist,2,45,Female,Chronic Pain,Dr. Susan Taylor,1141
+677,dizziness,ENT Specialist,1,57,Female,Arthritis,Dr. Susan Taylor,1141
+740,"loss of smell, vomiting, nausea, abdominal pain",ENT Specialist,5,42,Female,Obesity,Dr. Susan Taylor,1141
+106,sore throat,Gastroenterologist,5,54,Male,Hypertension,Dr. Susan Taylor,1142
+465,"loss of taste, hearing loss, vomiting",Gastroenterologist,4,39,Male,Diabetes,Dr. Susan Taylor,1142
+597,"sore throat, back pain, fatigue",Gastroenterologist,3,73,Female,None,Dr. Susan Taylor,1142
+702,"swelling, cough, loss of smell, blurred vision",Gastroenterologist,5,30,Female,Eczema,Dr. Susan Taylor,1142
+840,"cough, rash, joint pain, headache",Gastroenterologist,2,43,Female,Eczema,Dr. Susan Taylor,1142
+948,"joint pain, redness, headache, chest pain",Gastroenterologist,1,28,Male,Eczema,Dr. Susan Taylor,1142
+1012,"fatigue, swelling, sore throat",Gastroenterologist,2,56,Male,Eczema,Dr. Susan Taylor,1142
+44,"hearing loss, cough, shortness of breath, dizziness",Gastroenterologist,3,33,Female,Diabetes,Dr. Susan Taylor,1142
+319,stiffness,Gastroenterologist,2,25,Female,Asthma,Dr. Susan Taylor,1142
+411,"blurred vision, nausea, fever, chest pain",Gastroenterologist,3,58,Male,Diabetes,Dr. Susan Taylor,1142
+445,nausea,Gastroenterologist,2,50,Female,Chronic Pain,Dr. Susan Taylor,1142
+536,"rash, loss of taste",Gastroenterologist,2,48,Female,Allergies,Dr. Susan Taylor,1142
+733,"cough, vomiting, headache",Gastroenterologist,1,24,Female,Heart Disease,Dr. Susan Taylor,1142
+798,"dizziness, joint pain, chest pain, loss of smell",Gastroenterologist,3,20,Male,Heart Disease,Dr. Susan Taylor,1142
+338,"stiffness, abdominal pain, chest pain",Gastroenterologist,1,18,Female,Asthma,Dr. Susan Taylor,1142
+470,"stiffness, loss of taste, loss of smell, abdominal pain",Gastroenterologist,1,63,Male,Arthritis,Dr. Susan Taylor,1142
+516,"joint pain, cough, vomiting",Gastroenterologist,2,49,Female,Heart Disease,Dr. Susan Taylor,1142
+615,"loss of smell, back pain, chest pain",Gastroenterologist,5,44,Male,Asthma,Dr. Susan Taylor,1142
+736,"cough, fever",Gastroenterologist,4,57,Female,Eczema,Dr. Susan Taylor,1142
+895,"nausea, cough, rash",Gastroenterologist,3,36,Female,Hypertension,Dr. Susan Taylor,1142
+244,abdominal pain,Gastroenterologist,4,67,Female,Diabetes,Dr. Susan Taylor,1142
+598,redness,Gastroenterologist,4,63,Female,None,Dr. Susan Taylor,1142
+150,"hearing loss, sore throat, chest pain",General Physician,1,27,Male,Asthma,Dr. Susan Taylor,1143
+187,"redness, headache, swelling, rash",General Physician,5,41,Male,Asthma,Dr. Susan Taylor,1143
+215,"fever, fatigue",General Physician,1,54,Male,Arthritis,Dr. Susan Taylor,1143
+236,"vomiting, loss of smell, cough",General Physician,4,18,Female,Diabetes,Dr. Susan Taylor,1143
+505,"redness, chest pain, vomiting, headache",General Physician,5,50,Male,Heart Disease,Dr. Susan Taylor,1143
+891,"chest pain, fever, joint pain",General Physician,3,80,Female,None,Dr. Susan Taylor,1143
+921,chest pain,General Physician,5,51,Male,None,Dr. Susan Taylor,1143
+51,"redness, fatigue, shortness of breath",General Physician,4,31,Male,Heart Disease,Dr. Susan Taylor,1143
+60,"chest pain, back pain",General Physician,1,73,Male,Eczema,Dr. Susan Taylor,1143
+83,joint pain,General Physician,1,51,Male,Arthritis,Dr. Susan Taylor,1143
+450,loss of taste,General Physician,2,42,Male,Obesity,Dr. Susan Taylor,1143
+694,"cough, joint pain",General Physician,1,52,Female,Arthritis,Dr. Susan Taylor,1143
+707,rash,General Physician,4,65,Female,None,Dr. Susan Taylor,1143
+836,"fever, joint pain, swelling, nausea",General Physician,5,33,Female,Allergies,Dr. Susan Taylor,1143
+983,"fatigue, hearing loss, vomiting, fever",General Physician,4,73,Female,Diabetes,Dr. Susan Taylor,1143
+42,stiffness,General Physician,4,72,Female,Eczema,Dr. Susan Taylor,1143
+335,"shortness of breath, redness",General Physician,2,30,Female,Diabetes,Dr. Susan Taylor,1143
+386,sore throat,General Physician,5,32,Female,Allergies,Dr. Susan Taylor,1143
+449,"nausea, fever, joint pain, stiffness",General Physician,1,36,Male,Obesity,Dr. Susan Taylor,1143
+713,"rash, chest pain, shortness of breath, loss of taste",General Physician,2,69,Male,Hypertension,Dr. Susan Taylor,1143
+464,"joint pain, nausea, swelling, blurred vision",General Physician,3,57,Female,None,Dr. Susan Taylor,1143
+88,swelling,Neurologist,4,67,Male,Chronic Pain,Dr. Susan Taylor,1144
+357,"swelling, abdominal pain, headache, fever",Neurologist,1,63,Male,Obesity,Dr. Susan Taylor,1144
+469,"hearing loss, back pain, loss of taste",Neurologist,1,38,Male,Diabetes,Dr. Susan Taylor,1144
+602,"vomiting, rash, abdominal pain",Neurologist,3,78,Male,Heart Disease,Dr. Susan Taylor,1144
+847,"fever, sore throat",Neurologist,5,43,Male,Eczema,Dr. Susan Taylor,1144
+958,"rash, back pain, chest pain",Neurologist,1,37,Female,Asthma,Dr. Susan Taylor,1144
+1019,"swelling, shortness of breath",Neurologist,5,24,Male,Diabetes,Dr. Susan Taylor,1144
+216,"headache, loss of taste, dizziness, swelling",Neurologist,4,53,Female,Diabetes,Dr. Susan Taylor,1144
+316,hearing loss,Neurologist,5,58,Female,Hypertension,Dr. Susan Taylor,1144
+718,"cough, fever, back pain, loss of smell",Neurologist,5,25,Female,Arthritis,Dr. Susan Taylor,1144
+817,nausea,Neurologist,3,56,Female,Obesity,Dr. Susan Taylor,1144
+747,"fatigue, blurred vision",Neurologist,5,47,Male,Heart Disease,Dr. Susan Taylor,1144
+172,redness,Neurologist,1,24,Male,Chronic Pain,Dr. Susan Taylor,1144
+539,sore throat,Neurologist,2,60,Male,Allergies,Dr. Susan Taylor,1144
+892,"back pain, fatigue, stiffness",Neurologist,2,52,Female,Allergies,Dr. Susan Taylor,1144
+996,"rash, nausea, loss of taste",Neurologist,2,32,Male,Obesity,Dr. Susan Taylor,1144
+33,nausea,Ophthalmologist,5,59,Female,Hypertension,Dr. Susan Taylor,1145
+420,"vomiting, hearing loss, chest pain, stiffness",Ophthalmologist,3,79,Female,Arthritis,Dr. Susan Taylor,1145
+607,hearing loss,Ophthalmologist,1,33,Female,Arthritis,Dr. Susan Taylor,1145
+634,"dizziness, stiffness, loss of smell",Ophthalmologist,4,54,Female,Diabetes,Dr. Susan Taylor,1145
+754,hearing loss,Ophthalmologist,1,38,Male,Arthritis,Dr. Susan Taylor,1145
+130,"headache, fever, back pain, loss of taste",Ophthalmologist,4,54,Female,Eczema,Dr. Susan Taylor,1145
+522,"swelling, loss of taste, nausea, headache",Ophthalmologist,4,63,Female,Chronic Pain,Dr. Susan Taylor,1145
+679,vomiting,Ophthalmologist,2,69,Male,Heart Disease,Dr. Susan Taylor,1145
+790,"rash, nausea",Ophthalmologist,3,74,Male,Asthma,Dr. Susan Taylor,1145
+248,"chest pain, redness, loss of smell",Ophthalmologist,5,28,Male,None,Dr. Susan Taylor,1145
+391,"dizziness, stiffness, joint pain, rash",Ophthalmologist,1,33,Female,Arthritis,Dr. Susan Taylor,1145
+451,"shortness of breath, fatigue, chest pain",Ophthalmologist,4,60,Male,Obesity,Dr. Susan Taylor,1145
+647,"joint pain, rash",Ophthalmologist,1,64,Female,Hypertension,Dr. Susan Taylor,1145
+655,redness,Ophthalmologist,3,52,Female,Arthritis,Dr. Susan Taylor,1145
+774,"redness, rash",Ophthalmologist,4,27,Male,Arthritis,Dr. Susan Taylor,1145
+77,"nausea, cough, chest pain",Ophthalmologist,5,23,Female,Allergies,Dr. Susan Taylor,1145
+306,"chest pain, back pain, fever, loss of taste",Ophthalmologist,1,38,Male,Asthma,Dr. Susan Taylor,1145
+689,"fever, joint pain, loss of smell",Ophthalmologist,3,33,Male,Eczema,Dr. Susan Taylor,1145
+703,rash,Ophthalmologist,2,32,Female,Heart Disease,Dr. Susan Taylor,1145
+849,"nausea, swelling, joint pain",Ophthalmologist,4,41,Female,Allergies,Dr. Susan Taylor,1145
+890,"rash, chest pain, sore throat",Ophthalmologist,2,53,Female,Chronic Pain,Dr. Susan Taylor,1145
+1010,swelling,Ophthalmologist,5,25,Male,Hypertension,Dr. Susan Taylor,1145
+157,"vomiting, swelling",Orthopedic Surgeon,2,59,Male,Heart Disease,Dr. Susan Taylor,1146
+214,headache,Orthopedic Surgeon,2,56,Male,Diabetes,Dr. Susan Taylor,1146
+346,fever,Orthopedic Surgeon,1,76,Female,Obesity,Dr. Susan Taylor,1146
+417,"loss of smell, hearing loss",Orthopedic Surgeon,4,65,Male,Hypertension,Dr. Susan Taylor,1146
+467,"loss of taste, redness, headache, loss of smell",Orthopedic Surgeon,2,37,Male,Obesity,Dr. Susan Taylor,1146
+569,"redness, shortness of breath, stiffness, headache",Orthopedic Surgeon,5,59,Female,Allergies,Dr. Susan Taylor,1146
+653,"loss of taste, abdominal pain",Orthopedic Surgeon,1,78,Female,Eczema,Dr. Susan Taylor,1146
+267,"swelling, rash, blurred vision, abdominal pain",Orthopedic Surgeon,1,28,Male,Heart Disease,Dr. Susan Taylor,1146
+478,sore throat,Orthopedic Surgeon,4,80,Female,Obesity,Dr. Susan Taylor,1146
+639,"cough, abdominal pain, vomiting, headache",Orthopedic Surgeon,5,59,Male,Hypertension,Dr. Susan Taylor,1146
+735,fatigue,Orthopedic Surgeon,5,56,Male,Diabetes,Dr. Susan Taylor,1146
+290,"shortness of breath, fatigue, vomiting",Orthopedic Surgeon,2,49,Male,Diabetes,Dr. Susan Taylor,1146
+301,vomiting,Orthopedic Surgeon,3,78,Female,Allergies,Dr. Susan Taylor,1146
+439,"fatigue, back pain, swelling, dizziness",Orthopedic Surgeon,1,18,Male,Obesity,Dr. Susan Taylor,1146
+642,swelling,Orthopedic Surgeon,2,71,Male,Hypertension,Dr. Susan Taylor,1146
+658,"redness, fever, dizziness",Orthopedic Surgeon,3,65,Female,None,Dr. Susan Taylor,1146
+661,"loss of taste, abdominal pain, chest pain, stiffness",Orthopedic Surgeon,4,23,Male,Heart Disease,Dr. Susan Taylor,1146
+690,swelling,Orthopedic Surgeon,5,52,Male,Diabetes,Dr. Susan Taylor,1146
+909,sore throat,Orthopedic Surgeon,3,50,Female,Obesity,Dr. Susan Taylor,1146
+965,"fatigue, abdominal pain, joint pain",Orthopedic Surgeon,1,59,Female,Allergies,Dr. Susan Taylor,1146
+35,"stiffness, fever, blurred vision, rash",Orthopedic Surgeon,1,27,Male,Asthma,Dr. Susan Taylor,1146
+134,"stiffness, swelling, headache, vomiting",Orthopedic Surgeon,4,21,Female,None,Dr. Susan Taylor,1146
+375,"loss of taste, fever, cough, swelling",Orthopedic Surgeon,2,27,Female,None,Dr. Susan Taylor,1146
+512,"headache, back pain, sore throat, rash",Orthopedic Surgeon,3,80,Male,Asthma,Dr. Susan Taylor,1146
+796,"abdominal pain, rash, shortness of breath, cough",Orthopedic Surgeon,2,30,Female,Arthritis,Dr. Susan Taylor,1146
+917,"stiffness, cough",Orthopedic Surgeon,4,51,Male,Chronic Pain,Dr. Susan Taylor,1146
+950,"chest pain, vomiting, fever, shortness of breath",Orthopedic Surgeon,5,64,Female,Diabetes,Dr. Susan Taylor,1146
+96,loss of taste,Pulmonologist,4,29,Female,Chronic Pain,Dr. Susan Taylor,1147
+488,"stiffness, vomiting",Pulmonologist,3,73,Female,Obesity,Dr. Susan Taylor,1147
+574,"rash, dizziness",Pulmonologist,4,42,Female,Heart Disease,Dr. Susan Taylor,1147
+632,fatigue,Pulmonologist,2,50,Female,Obesity,Dr. Susan Taylor,1147
+858,"rash, back pain, swelling, chest pain",Pulmonologist,5,56,Male,Obesity,Dr. Susan Taylor,1147
+102,"blurred vision, fatigue, sore throat",Pulmonologist,5,35,Female,Chronic Pain,Dr. Susan Taylor,1147
+190,"vomiting, nausea, fatigue, cough",Pulmonologist,3,71,Male,Heart Disease,Dr. Susan Taylor,1147
+295,"redness, dizziness",Pulmonologist,2,29,Female,Eczema,Dr. Susan Taylor,1147
+423,"hearing loss, shortness of breath",Pulmonologist,4,47,Male,Eczema,Dr. Susan Taylor,1147
+500,"swelling, blurred vision, chest pain, loss of smell",Pulmonologist,2,34,Female,Diabetes,Dr. Susan Taylor,1147
+814,"abdominal pain, blurred vision",Pulmonologist,3,74,Male,Diabetes,Dr. Susan Taylor,1147
+897,"back pain, loss of taste, blurred vision, shortness of breath",Pulmonologist,5,19,Female,Allergies,Dr. Susan Taylor,1147
+101,"fatigue, sore throat, vomiting, back pain",Pulmonologist,5,22,Female,Arthritis,Dr. Susan Taylor,1147
+113,"sore throat, loss of taste, joint pain, blurred vision",Pulmonologist,5,37,Male,Hypertension,Dr. Susan Taylor,1147
+127,headache,Pulmonologist,3,38,Male,Heart Disease,Dr. Susan Taylor,1147
+657,"loss of taste, rash, loss of smell, blurred vision",Pulmonologist,3,20,Female,Chronic Pain,Dr. Susan Taylor,1147
+913,blurred vision,Pulmonologist,5,53,Female,Chronic Pain,Dr. Susan Taylor,1147
+987,"sore throat, dizziness",Pulmonologist,1,43,Male,Hypertension,Dr. Susan Taylor,1147
+105,"shortness of breath, abdominal pain, headache, rash",Pulmonologist,1,30,Male,Heart Disease,Dr. Susan Taylor,1147
+317,"nausea, headache, stiffness",Pulmonologist,3,58,Female,Allergies,Dr. Susan Taylor,1147
+513,"chest pain, fatigue, fever, dizziness",Pulmonologist,1,63,Male,Arthritis,Dr. Susan Taylor,1147
+968,"redness, back pain",Pulmonologist,5,71,Female,None,Dr. Susan Taylor,1147
+292,"abdominal pain, redness, dizziness",Rheumatologist,4,45,Male,Eczema,Dr. Susan Taylor,1148
+481,rash,Rheumatologist,5,31,Female,None,Dr. Susan Taylor,1148
+942,"fatigue, abdominal pain, back pain",Rheumatologist,1,28,Female,Asthma,Dr. Susan Taylor,1148
+1003,nausea,Rheumatologist,4,66,Female,None,Dr. Susan Taylor,1148
+252,"stiffness, headache",Rheumatologist,3,39,Female,Hypertension,Dr. Susan Taylor,1148
+257,"back pain, abdominal pain",Rheumatologist,1,67,Female,Asthma,Dr. Susan Taylor,1148
+431,"fever, fatigue",Rheumatologist,3,20,Male,Obesity,Dr. Susan Taylor,1148
+579,"shortness of breath, chest pain, fever",Rheumatologist,4,80,Female,Diabetes,Dr. Susan Taylor,1148
+618,"hearing loss, dizziness, cough, nausea",Rheumatologist,4,19,Male,Diabetes,Dr. Susan Taylor,1148
+857,nausea,Rheumatologist,4,63,Female,Diabetes,Dr. Susan Taylor,1148
+956,"fever, blurred vision",Rheumatologist,3,21,Male,Allergies,Dr. Susan Taylor,1148
+984,"abdominal pain, fatigue, redness",Rheumatologist,2,64,Female,Chronic Pain,Dr. Susan Taylor,1148
+1016,"redness, sore throat, fever",Rheumatologist,5,29,Female,Hypertension,Dr. Susan Taylor,1148
+432,"cough, fever",Rheumatologist,5,72,Female,Asthma,Dr. Susan Taylor,1148
+627,"nausea, chest pain, dizziness",Rheumatologist,4,21,Male,Diabetes,Dr. Susan Taylor,1148
+935,"vomiting, rash",Rheumatologist,5,22,Male,Eczema,Dr. Susan Taylor,1148
+123,"loss of smell, rash, hearing loss, back pain",Rheumatologist,1,24,Male,Arthritis,Dr. Susan Taylor,1148
+463,"fever, back pain",Rheumatologist,2,34,Male,Obesity,Dr. Susan Taylor,1148
+812,headache,Rheumatologist,3,38,Female,Allergies,Dr. Susan Taylor,1148
+902,"headache, abdominal pain, chest pain",Rheumatologist,3,19,Male,Arthritis,Dr. Susan Taylor,1148
+916,"nausea, stiffness, abdominal pain",Rheumatologist,3,49,Male,Heart Disease,Dr. Susan Taylor,1148
