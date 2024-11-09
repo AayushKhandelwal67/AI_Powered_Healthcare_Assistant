@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style_hack.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <style>
+        .structured-response h3 {
+            color: #4a90e2;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        .structured-response ul {
+            padding-left: 20px;
+        }
+        .structured-response p {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <header>
+            <h1>Medical Chatbot</h1>
+        </header>
+        <div id="query-type-selection">
+            <button onclick="selectQueryType('specialist')">Specialist Recommendation</button>
+            <button onclick="selectQueryType('general')">General Medical Query</button>
+            <button onclick="selectQueryType('report')">Analyze my Report</button>
+        </div>
+        <div id="chat-interface" style="display: none;">
+            <div id="chat-messages"></div>
+            <div class="input-area">
+                <input type="text" id="user-input" placeholder="Type your message here...">
+                <button onclick="sendMessage()" class="send-btn">Send</button>
+                <input type="file" id="file-upload" accept=".png,.jpg,.jpeg,.pdf">
+                <label for="file-upload" class="upload-btn" id="upload-label">Attach Image</label>
+            </div>
+        </div>
+        <button id="start-over" onclick="startOver()">Start Over</button>
+    </div>
+
+    <script>
+    let chatHistory = [];
+    let currentQueryType = '';
+
+    function selectQueryType(type) {
+        currentQueryType = type;
+        document.getElementById('query-type-selection').style.display = 'none';
+        document.getElementById('chat-interface').style.display = 'block';
+        const uploadLabel = document.getElementById('upload-label');
+        
+        if (type === 'specialist') {
+            displayMessage('Agent', "Please describe your symptoms, and I'll suggest which specialist you should see.");
+            uploadLabel.textContent = 'Attach Image';
+        } else if (type === 'general') {
+            displayMessage('Agent', "What medical question can I help you with today?");
+            uploadLabel.textContent = 'Attach Image';
+        } else if (type === 'report') {
+            displayMessage('Agent', "Please attach your medical report, and I'll analyze it for you.");
+            uploadLabel.textContent = 'Attach Report';
+        }
+    }
+
+    function sendMessage() {
+        const userInput = document.getElementById('user-input').value;
+        if (userInput.trim() === '') return;
+
+        displayMessage('You', userInput);
+        
+        fetch('/chatbot', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                message: userInput, 
+                chat_history: chatHistory,
+                query_type: currentQueryType
+            }),
+        })
+        .then(response => response.json())
+        .then(data => {
+            displayMessage('Bot', data.message);
+            chatHistory = data.chat_history;
+        })
+        .catch(error => console.error('Error:', error));
+
+        document.getElementById('user-input').value = '';
+    }
+
+    function displayMessage(sender, message) {
+        const chatMessages = document.getElementById('chat-messages');
+        const messageElement = document.createElement('div');
+        messageElement.className = `message ${sender.toLowerCase()}-message`;
+        
+        if (sender === 'Bot') {
+            messageElement.innerHTML = `<strong>${sender}:</strong><div class="structured-response">${structureResponse(message)}</div>`;
+        } else {
+            messageElement.innerHTML = `<strong>${sender}:</strong> ${message}`;
+        }
+        
+        chatMessages.appendChild(messageElement);
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+
+    function structureResponse(message) {
+        // Split the message into sections
+        const sections = message.split('###').filter(section => section.trim() !== '');
+        
+        let structuredHtml = '';
+        
+        sections.forEach(section => {
+            const [title, ...content] = section.split('\n');
+            structuredHtml += `<h3>${title.trim()}</h3>`;
+            
+            let currentList = '';
+            content.forEach(line => {
+                line = line.trim();
+                if (line.startsWith('-') || line.startsWith('*')) {
+                    if (!currentList) {
+                        currentList = '<ul>';
+                    }
+                    currentList += `<li>${line.substring(1).trim()}</li>`;
+                } else {
+                    if (currentList) {
+                        structuredHtml += currentList + '</ul>';
+                        currentList = '';
+                    }
+                    if (line) {
+                        structuredHtml += `<p>${line}</p>`;
+                    }
+                }
+            });
+            
+            if (currentList) {
+                structuredHtml += currentList + '</ul>';
+            }
+        });
+        
+        return structuredHtml;
+    }
+
+    function startOver() {
+        chatHistory = [];
+        currentQueryType = '';
+        document.getElementById('query-type-selection').style.display = 'block';
+        document.getElementById('chat-interface').style.display = 'none';
+        document.getElementById('chat-messages').innerHTML = '';
+    }
+
+    document.getElementById('user-input').addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') {
+            sendMessage();
+        }
+    });
+
+    document.getElementById('file-upload').addEventListener('change', function(e) {
+        const file = e.target.files[0];
+        if (file) {
+            const formData = new FormData();
+            formData.append('file', file);
+
+            displayMessage('You', `Uploading file: ${file.name}`);
+
+            let endpoint = currentQueryType === 'report' ? '/analyze_report' : '/analyze_image';
+
+            fetch(endpoint, {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.result) {
+                    displayMessage('Bot', data.result);
+                } else if (data.error) {
+                    displayMessage('Bot', 'Error: ' + data.error);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                displayMessage('Bot', 'An error occurred while analyzing the file.');
+            });
+        }
+    });
+    </script>
+</body>
+</html>
